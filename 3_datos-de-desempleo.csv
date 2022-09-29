@@ -1,0 +1,365 @@
+﻿Territorio,Fecha,sexo,Edad,Concepto,Sector,Número desempleados
+Alcobendas,1/4/2021,,,Desempleados sector agrícultura,Agricultura,30
+Alcobendas,1/6/2021,,,Desempleados sector agrícultura,Agricultura,21
+Alcobendas,1/9/2021,,,Desempleados sector agrícultura,Agricultura,27
+Alcobendas,1/1/2022,,,Desempleados sector agrícultura,Agricultura,21
+Alcobendas,1/2/2022,,,Desempleados sector agrícultura,Agricultura,20
+Alcobendas,1/3/2022,,,Desempleados sector agrícultura,Agricultura,14
+Alcobendas,1/4/2022,,,Desempleados sector agrícultura,Agricultura,14
+Alcobendas,1/5/2022,,,Desempleados sector agrícultura,Agricultura,14
+Alcobendas,1/6/2022,,,Desempleados sector agrícultura,Agricultura,13
+Alcobendas,1/7/2022,,,Desempleados sector agrícultura,Agricultura,11
+Alcobendas,1/4/2021,,,Desempleados sector construcción,Construcción,320
+Alcobendas,1/6/2021,,,Desempleados sector construcción,Construcción,302
+Alcobendas,1/9/2021,,,Desempleados sector construcción,Construcción,304
+Alcobendas,1/1/2022,,,Desempleados sector construcción,Construcción,270
+Alcobendas,1/2/2022,,,Desempleados sector construcción,Construcción,255
+Alcobendas,1/3/2022,,,Desempleados sector construcción,Construcción,264
+Alcobendas,1/4/2022,,,Desempleados sector construcción,Construcción,252
+Alcobendas,1/5/2022,,,Desempleados sector construcción,Construcción,256
+Alcobendas,1/6/2022,,,Desempleados sector construcción,Construcción,243
+Alcobendas,1/7/2022,,,Desempleados sector construcción,Construcción,244
+Alcobendas,1/4/2021,,,Desempleados sector industria,Industria,330
+Alcobendas,1/6/2021,,,Desempleados sector industria,Industria,315
+Alcobendas,1/9/2021,,,Desempleados sector industria,Industria,314
+Alcobendas,1/1/2022,,,Desempleados sector industria,Industria,256
+Alcobendas,1/2/2022,,,Desempleados sector industria,Industria,249
+Alcobendas,1/3/2022,,,Desempleados sector industria,Industria,250
+Alcobendas,1/4/2022,,,Desempleados sector industria,Industria,246
+Alcobendas,1/5/2022,,,Desempleados sector industria,Industria,241
+Alcobendas,1/6/2022,,,Desempleados sector industria,Industria,241
+Alcobendas,1/7/2022,,,Desempleados sector industria,Industria,230
+Alcobendas,1/4/2021,,,Desempleados sector servicios,Servicios,5124
+Alcobendas,1/5/2021,,,Desempleados sector servicios,Servicios,3510
+Alcobendas,1/6/2021,,,Desempleados sector servicios,Servicios,4844
+Alcobendas,1/9/2021,,,Desempleados sector servicios,Servicios,4700
+Alcobendas,1/1/2022,,,Desempleados sector servicios,Servicios,4117
+Alcobendas,1/2/2022,,,Desempleados sector servicios,Servicios,3910
+Alcobendas,1/3/2022,,,Desempleados sector servicios,Servicios,3860
+Alcobendas,1/4/2022,,,Desempleados sector servicios,Servicios,3699
+Alcobendas,1/6/2022,,,Desempleados sector servicios,Servicios,3471
+Alcobendas,1/7/2022,,,Desempleados sector servicios,Servicios,3572
+Alcobendas,1/4/2020,,,Desempleados totales,,5640
+Alcobendas,1/6/2020,,,Desempleados totales,,5749
+Alcobendas,1/3/2021,,,Desempleados totales,,6178
+Alcobendas,1/4/2021,,,Desempleados totales,,6110
+Alcobendas,1/5/2021,,,Desempleados totales,,5926
+Alcobendas,1/6/2021,,,Desempleados totales,,5784
+Alcobendas,1/9/2021,,,Desempleados totales,,5625
+Alcobendas,1/1/2022,,,Desempleados totales,,4875
+Alcobendas,1/2/2022,,,Desempleados totales,,4612
+Alcobendas,1/3/2022,,,Desempleados totales,,4560
+Alcobendas,1/4/2022,,,Desempleados totales,,4390
+Alcobendas,1/5/2022,,,Desempleados totales,,4194
+Alcobendas,1/4/2021,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,1075
+Alcobendas,1/6/2021,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,960
+Alcobendas,1/9/2021,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,890
+Alcobendas,1/1/2022,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,793
+Alcobendas,1/2/2022,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,727
+Alcobendas,1/3/2022,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,720
+Alcobendas,1/4/2022,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,677
+Alcobendas,1/5/2022,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,640
+Alcobendas,1/6/2022,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,619
+Alcobendas,1/7/2022,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,640
+Alcobendas,1/4/2021,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,1333
+Alcobendas,1/6/2021,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,1271
+Alcobendas,1/9/2021,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,1242
+Alcobendas,1/1/2022,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,1130
+Alcobendas,1/2/2022,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,1060
+Alcobendas,1/3/2022,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,1037
+Alcobendas,1/4/2022,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,997
+Alcobendas,1/5/2022,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,982
+Alcobendas,1/6/2022,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,963
+Alcobendas,1/7/2022,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,974
+Alcobendas,1/4/2021,hombres,menores 25 años,Desempleo hombres menores de 25 años,,285
+Alcobendas,1/6/2021,hombres,menores 25 años,Desempleo hombres menores de 25 años,,217
+Alcobendas,1/9/2021,hombres,menores 25 años,Desempleo hombres menores de 25 años,,231
+Alcobendas,1/1/2022,hombres,menores 25 años,Desempleo hombres menores de 25 años,,151
+Alcobendas,1/2/2022,hombres,menores 25 años,Desempleo hombres menores de 25 años,,121
+Alcobendas,1/3/2022,hombres,menores 25 años,Desempleo hombres menores de 25 años,,125
+Alcobendas,1/4/2022,hombres,menores 25 años,Desempleo hombres menores de 25 años,,112
+Alcobendas,1/5/2022,hombres,menores 25 años,Desempleo hombres menores de 25 años,,103
+Alcobendas,1/6/2022,hombres,menores 25 años,Desempleo hombres menores de 25 años,,94
+Alcobendas,1/7/2022,hombres,menores 25 años,Desempleo hombres menores de 25 años,,94
+Alcobendas,1/5/2022,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,853
+Alcobendas,1/4/2021,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,1359
+Alcobendas,1/6/2021,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,1332
+Alcobendas,1/9/2021,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,1279
+Alcobendas,1/1/2022,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,1026
+Alcobendas,1/2/2022,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,981
+Alcobendas,1/3/2022,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,981
+Alcobendas,1/4/2022,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,913
+Alcobendas,1/6/2022,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,814
+Alcobendas,1/7/2022,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,887
+Alcobendas,1/4/2021,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1834
+Alcobendas,1/6/2021,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1813
+Alcobendas,1/9/2021,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1792
+Alcobendas,1/1/2022,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1656
+Alcobendas,1/2/2022,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1601
+Alcobendas,1/3/2022,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1584
+Alcobendas,1/4/2022,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1582
+Alcobendas,1/5/2022,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1523
+Alcobendas,1/6/2022,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1540
+Alcobendas,1/7/2022,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1548
+Alcobendas,1/5/2022,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,93
+Alcobendas,1/4/2021,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,224
+Alcobendas,1/6/2021,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,191
+Alcobendas,1/9/2021,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,191
+Alcobendas,1/1/2022,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,119
+Alcobendas,1/2/2022,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,122
+Alcobendas,1/3/2022,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,113
+Alcobendas,1/4/2022,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,109
+Alcobendas,1/6/2022,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,111
+Alcobendas,1/7/2022,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,106
+Alcobendas,31/12/2020,,,Tasa desempleo,,968
+Alcobendas,1/3/2021,,,Tasa desempleo,,991
+Alcobendas,1/6/2021,,,Tasa desempleo,,923
+Alcobendas,1/9/2021,,,Tasa desempleo,,894
+Alcobendas,1/12/2021,,,Tasa desempleo,,81
+Alcobendas,1/3/2022,,,Tasa desempleo,,714
+Alcobendas,1/6/2022,,,Tasa desempleo,,649
+Algete,1/4/2021,,,Desempleados sector agrícultura,Agricultura,4
+Algete,1/6/2021,,,Desempleados sector agrícultura,Agricultura,4
+Algete,1/9/2021,,,Desempleados sector agrícultura,Agricultura,7
+Algete,1/1/2022,,,Desempleados sector agrícultura,Agricultura,5
+Algete,1/2/2022,,,Desempleados sector agrícultura,Agricultura,4
+Algete,1/3/2022,,,Desempleados sector agrícultura,Agricultura,3
+Algete,1/4/2022,,,Desempleados sector agrícultura,Agricultura,3
+Algete,1/5/2022,,,Desempleados sector agrícultura,Agricultura,3
+Algete,1/7/2022,,,Desempleados sector agrícultura,Agricultura,3
+Algete,1/4/2021,,,Desempleados sector construcción,Construcción,40
+Algete,1/6/2021,,,Desempleados sector construcción,Construcción,65
+Algete,1/9/2021,,,Desempleados sector construcción,Construcción,68
+Algete,1/1/2022,,,Desempleados sector construcción,Construcción,57
+Algete,1/2/2022,,,Desempleados sector construcción,Construcción,57
+Algete,1/3/2022,,,Desempleados sector construcción,Construcción,60
+Algete,1/4/2022,,,Desempleados sector construcción,Construcción,59
+Algete,1/5/2022,,,Desempleados sector construcción,Construcción,54
+Algete,1/7/2022,,,Desempleados sector construcción,Construcción,59
+Algete,1/4/2021,,,Desempleados sector industria,Industria,110
+Algete,1/6/2021,,,Desempleados sector industria,Industria,107
+Algete,1/9/2021,,,Desempleados sector industria,Industria,98
+Algete,1/1/2022,,,Desempleados sector industria,Industria,84
+Algete,1/2/2022,,,Desempleados sector industria,Industria,84
+Algete,1/3/2022,,,Desempleados sector industria,Industria,82
+Algete,1/4/2022,,,Desempleados sector industria,Industria,86
+Algete,1/5/2022,,,Desempleados sector industria,Industria,82
+Algete,1/7/2022,,,Desempleados sector industria,Industria,81
+Algete,1/4/2021,,,Desempleados sector servicios,Servicios,881
+Algete,1/5/2021,,,Desempleados sector servicios,Servicios,663
+Algete,1/6/2021,,,Desempleados sector servicios,Servicios,852
+Algete,1/9/2021,,,Desempleados sector servicios,Servicios,875
+Algete,1/1/2022,,,Desempleados sector servicios,Servicios,762
+Algete,1/2/2022,,,Desempleados sector servicios,Servicios,736
+Algete,1/3/2022,,,Desempleados sector servicios,Servicios,734
+Algete,1/4/2022,,,Desempleados sector servicios,Servicios,689
+Algete,1/7/2022,,,Desempleados sector servicios,Servicios,642
+Algete,1/4/2020,,,Desempleados totales,,1023
+Algete,1/6/2020,,,Desempleados totales,,1042
+Algete,1/3/2021,,,Desempleados totales,,1143
+Algete,1/4/2021,,,Desempleados totales,,1120
+Algete,1/5/2021,,,Desempleados totales,,1091
+Algete,1/6/2021,,,Desempleados totales,,1072
+Algete,1/9/2021,,,Desempleados totales,,1086
+Algete,10/1/2022,,,Desempleados totales,,943
+Algete,1/2/2022,,,Desempleados totales,,916
+Algete,1/3/2022,,,Desempleados totales,,912
+Algete,1/4/2022,,,Desempleados totales,,873
+Algete,1/5/2022,,,Desempleados totales,,833
+Algete,1/6/2022,,,Desempleados totales,,797
+Algete,1/7/2022,,,Desempleados totales,,813
+Algete,1/6/2021,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,164
+Algete,1/6/2021,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,229
+Algete,1/6/2021,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,224
+Algete,1/6/2021,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,386
+Algete,1/6/2021,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,30
+Colmenar Viejo,1/4/2021,,,Desempleados sector agrícultura,Agricultura,25
+Colmenar Viejo,1/6/2021,,,Desempleados sector agrícultura,Agricultura,25
+Colmenar Viejo,1/9/2021,,,Desempleados sector agrícultura,Agricultura,26
+Colmenar Viejo,1/1/2022,,,Desempleados sector agrícultura,Agricultura,24
+Colmenar Viejo,1/2/2022,,,Desempleados sector agrícultura,Agricultura,25
+Colmenar Viejo,1/3/2022,,,Desempleados sector agrícultura,Agricultura,26
+Colmenar Viejo,1/4/2022,,,Desempleados sector agrícultura,Agricultura,24
+Colmenar Viejo,1/5/2022,,,Desempleados sector agrícultura,Agricultura,20
+Colmenar Viejo,1/7/2022,,,Desempleados sector agrícultura,Agricultura,15
+Colmenar Viejo,1/4/2021,,,Desempleados sector construcción,Construcción,236
+Colmenar Viejo,1/6/2021,,,Desempleados sector construcción,Construcción,235
+Colmenar Viejo,1/9/2021,,,Desempleados sector construcción,Construcción,211
+Colmenar Viejo,1/1/2022,,,Desempleados sector construcción,Construcción,217
+Colmenar Viejo,1/2/2022,,,Desempleados sector construcción,Construcción,212
+Colmenar Viejo,1/3/2022,,,Desempleados sector construcción,Construcción,212
+Colmenar Viejo,1/4/2022,,,Desempleados sector construcción,Construcción,198
+Colmenar Viejo,1/5/2022,,,Desempleados sector construcción,Construcción,181
+Colmenar Viejo,1/7/2022,,,Desempleados sector construcción,Construcción,163
+Colmenar Viejo,1/4/2021,,,Desempleados sector industria,Industria,177
+Colmenar Viejo,1/6/2021,,,Desempleados sector industria,Industria,157
+Colmenar Viejo,1/9/2021,,,Desempleados sector industria,Industria,148
+Colmenar Viejo,1/1/2022,,,Desempleados sector industria,Industria,149
+Colmenar Viejo,1/2/2022,,,Desempleados sector industria,Industria,150
+Colmenar Viejo,1/3/2022,,,Desempleados sector industria,Industria,145
+Colmenar Viejo,1/4/2022,,,Desempleados sector industria,Industria,139
+Colmenar Viejo,1/5/2022,,,Desempleados sector industria,Industria,148
+Colmenar Viejo,1/7/2022,,,Desempleados sector industria,Industria,129
+Colmenar Viejo,1/4/2021,,,Desempleados sector servicios,Servicios,2422
+Colmenar Viejo,1/5/2021,,,Desempleados sector servicios,Servicios,1772
+Colmenar Viejo,1/6/2021,,,Desempleados sector servicios,Servicios,2316
+Colmenar Viejo,1/9/2021,,,Desempleados sector servicios,Servicios,2259
+Colmenar Viejo,1/1/2022,,,Desempleados sector servicios,Servicios,1995
+Colmenar Viejo,1/2/2022,,,Desempleados sector servicios,Servicios,1910
+Colmenar Viejo,1/3/2022,,,Desempleados sector servicios,Servicios,1863
+Colmenar Viejo,1/4/2022,,,Desempleados sector servicios,Servicios,1809
+Colmenar Viejo,1/7/2022,,,Desempleados sector servicios,Servicios,1741
+Colmenar Viejo,1/4/2020,,,Desempleados totales,,2852
+Colmenar Viejo,1/6/2020,,,Desempleados totales,,2916
+Colmenar Viejo,1/3/2021,,,Desempleados totales,,3010
+Colmenar Viejo,1/4/2021,,,Desempleados totales,,3015
+Colmenar Viejo,1/5/2021,,,Desempleados totales,,2941
+Colmenar Viejo,1/6/2021,,,Desempleados totales,,2887
+Colmenar Viejo,1/9/2021,,,Desempleados totales,,2780
+Colmenar Viejo,1/1/2022,,,Desempleados totales,,2502
+Colmenar Viejo,1/2/2022,,,Desempleados totales,,2412
+Colmenar Viejo,1/3/2022,,,Desempleados totales,,2354
+Colmenar Viejo,1/4/2022,,,Desempleados totales,,2282
+Colmenar Viejo,1/5/2022,,,Desempleados totales,,2231
+Colmenar Viejo,1/6/2022,,,Desempleados totales,,2192
+Colmenar Viejo,1/7/2022,,,Desempleados totales,,2168
+Colmenar Viejo,1/6/2021,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,495
+Colmenar Viejo,1/6/2021,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,585
+Colmenar Viejo,1/6/2021,hombres,menores 25 años,Desempleo hombres menores de 25 años,,120
+Colmenar Viejo,1/6/2021,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,713
+Colmenar Viejo,1/6/2021,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,872
+Colmenar Viejo,1/6/2021,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,102
+Comunidad de Madrid,31/12/2020,,,Tasa desempleo,,1353
+Comunidad de Madrid,1/3/2021,,,Tasa desempleo,,1215
+Comunidad de Madrid,1/6/2021,,,Tasa desempleo,,1209
+Comunidad de Madrid,30/9/2021,,,Tasa desempleo,,1184
+Comunidad de Madrid,31/12/2021,,,Tasa desempleo,,1012
+Comunidad de Madrid,1/3/2022,,,Tasa desempleo,,1185
+Comunidad de Madrid,1/6/2022,,,Tasa desempleo,,1018
+España,31/12/2020,,,Tasa desempleo,,1613
+España,1/3/2021,,,Tasa desempleo,,1598
+España,1/6/2021,,,Tasa desempleo,,1526
+España,30/9/2021,,,Tasa desempleo,,1457
+España,31/12/2021,,,Tasa desempleo,,1333
+España,1/3/2022,,,Tasa desempleo,,1365
+España,1/6/2022,,,Tasa desempleo,,1248
+San Sebastián de los Reyes,1/4/2021,,,Desempleados sector agrícultura,Agricultura,14
+San Sebastián de los Reyes,1/6/2021,,,Desempleados sector agrícultura,Agricultura,16
+San Sebastián de los Reyes,1/9/2021,,,Desempleados sector agrícultura,Agricultura,16
+San Sebastián de los Reyes,1/1/2022,,,Desempleados sector agrícultura,Agricultura,16
+San Sebastián de los Reyes,1/2/2022,,,Desempleados sector agrícultura,Agricultura,13
+San Sebastián de los Reyes,1/3/2022,,,Desempleados sector agrícultura,Agricultura,14
+San Sebastián de los Reyes,1/4/2022,,,Desempleados sector agrícultura,Agricultura,12
+San Sebastián de los Reyes,1/5/2022,,,Desempleados sector agrícultura,Agricultura,10
+San Sebastián de los Reyes,1/6/2022,,,Desempleados sector agrícultura,Agricultura,11
+San Sebastián de los Reyes,1/7/2022,,,Desempleados sector agrícultura,Agricultura,13
+San Sebastián de los Reyes,1/4/2021,,,Desempleados sector construcción,Construcción,287
+San Sebastián de los Reyes,1/6/2021,,,Desempleados sector construcción,Construcción,276
+San Sebastián de los Reyes,1/9/2021,,,Desempleados sector construcción,Construcción,284
+San Sebastián de los Reyes,1/1/2022,,,Desempleados sector construcción,Construcción,249
+San Sebastián de los Reyes,1/2/2022,,,Desempleados sector construcción,Construcción,231
+San Sebastián de los Reyes,1/3/2022,,,Desempleados sector construcción,Construcción,231
+San Sebastián de los Reyes,1/4/2022,,,Desempleados sector construcción,Construcción,215
+San Sebastián de los Reyes,1/5/2022,,,Desempleados sector construcción,Construcción,223
+San Sebastián de los Reyes,1/6/2022,,,Desempleados sector construcción,Construcción,216
+San Sebastián de los Reyes,1/7/2022,,,Desempleados sector construcción,Construcción,215
+San Sebastián de los Reyes,1/4/2021,,,Desempleados sector industria,Industria,278
+San Sebastián de los Reyes,1/6/2021,,,Desempleados sector industria,Industria,263
+San Sebastián de los Reyes,1/9/2021,,,Desempleados sector industria,Industria,250
+San Sebastián de los Reyes,1/1/2022,,,Desempleados sector industria,Industria,215
+San Sebastián de los Reyes,1/2/2022,,,Desempleados sector industria,Industria,209
+San Sebastián de los Reyes,1/3/2022,,,Desempleados sector industria,Industria,212
+San Sebastián de los Reyes,1/4/2022,,,Desempleados sector industria,Industria,201
+San Sebastián de los Reyes,1/5/2022,,,Desempleados sector industria,Industria,187
+San Sebastián de los Reyes,1/6/2022,,,Desempleados sector industria,Industria,192
+San Sebastián de los Reyes,1/7/2022,,,Desempleados sector industria,Industria,184
+San Sebastián de los Reyes,1/4/2021,,,Desempleados sector servicios,Servicios,3999
+San Sebastián de los Reyes,1/5/2021,,,Desempleados sector servicios,Servicios,2942
+San Sebastián de los Reyes,1/6/2021,,,Desempleados sector servicios,Servicios,3785
+San Sebastián de los Reyes,1/9/2021,,,Desempleados sector servicios,Servicios,3777
+San Sebastián de los Reyes,1/1/2022,,,Desempleados sector servicios,Servicios,3309
+San Sebastián de los Reyes,1/2/2022,,,Desempleados sector servicios,Servicios,3224
+San Sebastián de los Reyes,1/3/2022,,,Desempleados sector servicios,Servicios,3165
+San Sebastián de los Reyes,1/4/2022,,,Desempleados sector servicios,Servicios,3078
+San Sebastián de los Reyes,1/6/2022,,,Desempleados sector servicios,Servicios,2914
+San Sebastián de los Reyes,1/7/2022,,,Desempleados sector servicios,Servicios,2928
+San Sebastián de los Reyes,1/4/2020,,,Desempleados totales,,4459
+San Sebastián de los Reyes,1/6/2020,,,Desempleados totales,,4605
+San Sebastián de los Reyes,1/3/2021,,,Desempleados totales,,4931
+San Sebastián de los Reyes,1/4/2021,,,Desempleados totales,,4833
+San Sebastián de los Reyes,1/5/2021,,,Desempleados totales,,4659
+San Sebastián de los Reyes,1/6/2021,,,Desempleados totales,,4584
+San Sebastián de los Reyes,1/9/2021,,,Desempleados totales,,4566
+San Sebastián de los Reyes,1/1/2022,,,Desempleados totales,,3971
+San Sebastián de los Reyes,1/2/2022,,,Desempleados totales,,3842
+San Sebastián de los Reyes,1/3/2022,,,Desempleados totales,,3789
+San Sebastián de los Reyes,1/4/2022,,,Desempleados totales,,3664
+San Sebastián de los Reyes,1/5/2022,,,Desempleados totales,,3511
+San Sebastián de los Reyes,1/6/2022,,,Desempleados totales,,3468
+San Sebastián de los Reyes,1/7/2022,,,Desempleados totales,,3477
+San Sebastián de los Reyes,1/6/2021,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,716
+San Sebastián de los Reyes,1/6/2021,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,956
+San Sebastián de los Reyes,1/6/2021,hombres,menores 25 años,Desempleo hombres menores de 25 años,,191
+San Sebastián de los Reyes,1/6/2021,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,1114
+San Sebastián de los Reyes,1/6/2021,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,1475
+San Sebastián de los Reyes,1/6/2021,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,132
+Tres Cantos,1/4/2021,,,Desempleados sector agrícultura,Agricultura,11
+Tres Cantos,1/6/2021,,,Desempleados sector agrícultura,Agricultura,11
+Tres Cantos,1/9/2021,,,Desempleados sector agrícultura,Agricultura,10
+Tres Cantos,1/1/2022,,,Desempleados sector agrícultura,Agricultura,9
+Tres Cantos,1/2/2022,,,Desempleados sector agrícultura,Agricultura,10
+Tres Cantos,1/3/2022,,,Desempleados sector agrícultura,Agricultura,8
+Tres Cantos,1/4/2022,,,Desempleados sector agrícultura,Agricultura,6
+Tres Cantos,1/5/2022,,,Desempleados sector agrícultura,Agricultura,5
+Tres Cantos,1/6/2022,,,Desempleados sector agrícultura,Agricultura,2
+Tres Cantos,1/7/2022,,,Desempleados sector agrícultura,Agricultura,5
+Tres Cantos,1/4/2021,,,Desempleados sector construcción,Construcción,77
+Tres Cantos,1/6/2021,,,Desempleados sector construcción,Construcción,77
+Tres Cantos,1/9/2021,,,Desempleados sector construcción,Construcción,76
+Tres Cantos,1/1/2022,,,Desempleados sector construcción,Construcción,78
+Tres Cantos,1/2/2022,,,Desempleados sector construcción,Construcción,78
+Tres Cantos,1/3/2022,,,Desempleados sector construcción,Construcción,72
+Tres Cantos,1/4/2022,,,Desempleados sector construcción,Construcción,69
+Tres Cantos,1/5/2022,,,Desempleados sector construcción,Construcción,66
+Tres Cantos,1/6/2022,,,Desempleados sector construcción,Construcción,68
+Tres Cantos,1/7/2022,,,Desempleados sector construcción,Construcción,66
+Tres Cantos,1/4/2021,,,Desempleados sector industria,Industria,96
+Tres Cantos,1/6/2021,,,Desempleados sector industria,Industria,96
+Tres Cantos,1/9/2021,,,Desempleados sector industria,Industria,81
+Tres Cantos,1/1/2022,,,Desempleados sector industria,Industria,79
+Tres Cantos,1/2/2022,,,Desempleados sector industria,Industria,77
+Tres Cantos,1/3/2022,,,Desempleados sector industria,Industria,68
+Tres Cantos,1/4/2022,,,Desempleados sector industria,Industria,71
+Tres Cantos,1/5/2022,,,Desempleados sector industria,Industria,64
+Tres Cantos,1/6/2022,,,Desempleados sector industria,Industria,59
+Tres Cantos,1/7/2022,,,Desempleados sector industria,Industria,58
+Tres Cantos,1/4/2021,,,Desempleados sector servicios,Servicios,1640
+Tres Cantos,1/5/2021,,,Desempleados sector servicios,Servicios,1307
+Tres Cantos,1/6/2021,,,Desempleados sector servicios,Servicios,1640
+Tres Cantos,1/9/2021,,,Desempleados sector servicios,Servicios,1620
+Tres Cantos,1/1/2022,,,Desempleados sector servicios,Servicios,1472
+Tres Cantos,1/2/2022,,,Desempleados sector servicios,Servicios,1433
+Tres Cantos,1/3/2022,,,Desempleados sector servicios,Servicios,1408
+Tres Cantos,1/4/2022,,,Desempleados sector servicios,Servicios,1379
+Tres Cantos,1/6/2022,,,Desempleados sector servicios,Servicios,1278
+Tres Cantos,1/7/2022,,,Desempleados sector servicios,Servicios,1340
+Tres Cantos,1/4/2020,,,Desempleados totales,,1799
+Tres Cantos,1/6/2020,,,Desempleados totales,,1845
+Tres Cantos,1/3/2021,,,Desempleados totales,,1896
+Tres Cantos,1/4/2021,,,Desempleados totales,,1890
+Tres Cantos,1/5/2021,,,Desempleados totales,,1849
+Tres Cantos,1/6/2021,,,Desempleados totales,,1851
+Tres Cantos,1/9/2021,,,Desempleados totales,,1859
+Tres Cantos,1/1/2022,,,Desempleados totales,,1689
+Tres Cantos,1/2/2022,,,Desempleados totales,,1645
+Tres Cantos,1/3/2022,,,Desempleados totales,,1594
+Tres Cantos,1/4/2022,,,Desempleados totales,,1568
+Tres Cantos,1/5/2022,,,Desempleados totales,,1476
+Tres Cantos,1/6/2022,,,Desempleados totales,,1436
+Tres Cantos,1/7/2022,,,Desempleados totales,,1502
+Tres Cantos,1/6/2021,hombres,entre 25 y 44 años,Desempleo hombres entre 25 y 44 años,,291
+Tres Cantos,1/6/2021,hombres,mayores de 45 años,Desempleo hombres mayores de 45 años,,376
+Tres Cantos,1/6/2021,hombres,menores 25 años,Desempleo hombres menores de 25 años,,48
+Tres Cantos,1/6/2021,mujeres,entre 25 y 44 años,Desempleo mujeres entre 25 y 44 años,,412
+Tres Cantos,1/6/2021,mujeres,mayores de 45 años,Desempleo mujeres mayores de 45 años,,688
+Tres Cantos,1/6/2021,mujeres,menores 25 años,Desempleo mujeres menores de 25 años,,36

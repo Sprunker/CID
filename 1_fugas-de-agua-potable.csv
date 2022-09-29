@@ -1,0 +1,1403 @@
+﻿id,ano,municipio,codigo_postal,total_fugas,tipo_de_fuga,fecha
+2,2016,Sacañet,12469,1,Tubería general,12/1/2016
+3,2016,Canales (Sacañet),12469,1,Interior vivienda,12/1/2016
+5,2016,Artana,12527,1,Acometida,13/1/2016
+6,2016,Artana,12527,1,Tubería general,18/1/2016
+7,2016,Puebla de Arenoso,12428,1,Llave de paso de la general,19/1/2016
+14,2016,Torás,12431,1,Acometida,1/2/2016
+19,2016,Matet,12415,0,,3/2/2016
+20,2016,Alfondeguilla,12609,0,,3/2/2016
+27,2016,Rosell,12511,0,,11/2/2016
+36,2016,Eslida,12528,0,,2/3/2016
+38,2016,Castellfort,12159,1,Llave de paso de la acometida,8/3/2013
+39,2016,Castellfort,12159,1,Acometida,8/3/2016
+40,2016,Ludiente,12123,0,,9/3/2016
+42,2016,La Torre d'En Besora,12161,1,Acometida,10/3/2016
+47,2016,Vallibona,12315,1,Interior vivienda,30/3/2016
+48,2016,Jérica,12450,0,,5/4/2016
+49,2016,Eslida,12528,1,Sin identificación,6/4/2016
+50,2016,Alfondeguilla,12609,0,,6/4/2016
+54,2016,Soneja,12480,1,Acometida,12/4/2016
+56,2016,Gaibiel,12415,1,Llave de paso de la general,13/4/2016
+64,2016,Pavías,12449,1,Acometida,25/4/2016
+65,2016,Pavías,12449,1,Tubería general,25/4/2016
+67,2016,Xodos,12134,1,Acometida,26/4/2016
+68,2016,Sot de Ferrer,12489,1,Acometida,27/4/2016
+75,2016,Alquerías (Montanejos),12448,1,Tubería general,16/5/2016
+80,2016,Jérica,12450,1,Llave de paso de la general,17/5/2016
+81,2016,Jérica,12450,1,Llave de paso de la general,17/5/2016
+82,2016,Castellfort,12159,1,Acometida,18/5/2016
+84,2016,Artana,12527,1,Sin identificación,23/5/2016
+89,2016,Castillo de Villamalefa,12123,1,Acometida,30/5/2016
+90,2016,Todolella,12312,1,Boca de Riego,7/6/2016
+95,2016,Jérica,12450,0,,13/6/2016
+99,2016,Torás,12431,1,Acometida,20/6/2016
+100,2016,Torás,12431,1,Tubería general,20/6/2016
+104,2016,Todolella,12312,1,Acometida,22/6/2016
+109,2016,Cinctorres,12318,1,Llave de paso de la acometida,30/6/2016
+110,2016,Artana,12527,1,Interior vivienda,1/7/2016
+112,2016,Soneja,12480,2,Tubería general,4/7/2016
+116,2016,Cinctorres,12318,1,Llave de paso de la acometida,5/7/2016
+119,2016,Aín,12222,0,,7/7/2016
+120,2016,Villahermosa del Río,12124,0,,11/7/2016
+121,2016,Montanejos,12448,0,,11/7/2016
+125,2016,Benafigos,12134,1,Tubería general,12/7/2016
+133,2016,Benafigos,12134,1,Acometida,19/7/2016
+134,2016,Alfondeguilla,12609,1,Acometida,20/7/2016
+143,2016,Pobla de Benifassà,12599,1,Acometida,27/7/2016
+149,2016,Soneja,12480,1,Tubería general,3/8/2016
+155,2016,Vallibona,12315,1,Acometida,9/8/2016
+156,2016,Figueroles,12122,1,Acometida,10/8/2016
+157,2016,Figueroles,12122,1,Acometida,10/8/2016
+158,2016,Figueroles,12122,1,Acometida,10/8/2016
+161,2016,Caudiel,12440,1,Acometida,30/8/2016
+168,2016,Figueroles,12122,1,Boca de Riego,22/8/2016
+170,2016,Figueroles,12122,1,Interior vivienda,24/8/2016
+172,2016,Figueroles,12122,1,Acometida,24/8/2016
+174,2016,Figueroles,12122,1,Boca de Riego,23/8/2016
+175,2016,Figueroles,12122,1,Interior vivienda,23/8/2016
+176,2016,Pavías,12449,1,Tubería general,17/8/2016
+177,2016,Matet,12415,1,Sin identificación,5/9/2016
+184,2016,Alfondeguilla,12609,1,Acometida,8/9/2016
+190,2016,Villahermosa del Río,12124,1,Sin identificación,15/9/2016
+195,2016,Eslida,12528,1,Acometida,20/9/2016
+196,2016,Gaibiel,12415,1,Tubería general,27/9/2016
+197,2016,Forcall,12310,1,Acometida,29/9/2016
+200,2016,Vall de Almonacid,12141,1,Acometida,3/10/2016
+201,2016,Villamalur,12224,1,Acometida,4/10/2016
+203,2016,Diputación,12004,1,Interior vivienda,4/10/2016
+204,2016,Caudiel,12440,1,Acometida,5/10/2016
+208,2016,Montanejos,12448,1,Tubería general,6/10/2016
+209,2016,Montanejos,12448,1,Acometida,6/10/2016
+211,2016,Montanejos,12448,1,Acometida,6/10/2016
+213,2016,Gaibiel,12415,1,Acometida,7/10/2016
+214,2016,Gaibiel,12415,1,Tubería general,7/10/2016
+216,2016,Eslida,12528,1,Acometida,11/10/2016
+219,2016,Xodos,12134,1,Llave de paso de la acometida,13/10/2016
+222,2016,Alfondeguilla,12609,1,Tubería general,20/1/2016
+226,2016,Argelita,12230,1,Boca de Riego,26/10/2016
+227,2016,Argelita,12230,1,Boca de Riego,26/10/2016
+228,2016,Argelita,12230,1,Boca de Riego,26/10/2016
+241,2016,La Torre d'En Besora,12161,1,Tubería general,9/11/2016
+244,2016,Figueroles,12122,1,Tubería general,9/11/2016
+248,2016,Vall de Almonacid,12141,1,Tubería general,14/11/2016
+251,2016,Vall de Almonacid,12141,1,Acometida,14/11/2016
+253,2016,Sot de Ferrer,12489,0,,21/11/2016
+257,2016,Torás,12431,1,Acometida,24/11/2016
+259,2016,Torás,12431,1,Acometida,24/11/2016
+266,2016,Catí,12513,1,Tubería general,12/12/2016
+268,2016,Catí,12513,1,Interior vivienda,12/12/2016
+271,2016,Caudiel,12440,1,Tubería general,20/12/2016
+274,2017,Alfondeguilla,12609,1,Acometida,4/1/2017
+275,2017,Vall de Almonacid,12414,1,Tubería general,10/1/2017
+279,2017,Jérica,12450,1,Acometida,12/1/2017
+283,2017,Alfondeguilla,12609,1,Tubería general,18/1/2017
+285,2017,Caudiel,12440,1,Tubería general,19/1/2017
+287,2017,Torás,12431,1,Interior vivienda,25/1/2017
+288,2017,Torás,12431,1,Tubería general,25/1/2017
+295,2017,Aín,12222,1,Acometida,8/2/2017
+297,2017,Sacañet,12469,1,Acometida,14/2/2017
+300,2017,Alfondeguilla,12609,0,,16/2/2017
+301,2017,Geldo,12412,1,Interior vivienda,21/2/2017
+305,2017,Jérica,12450,0,,28/2/2017
+307,2017,Caudiel,12440,1,Tubería general,2/3/2017
+309,2017,Ayódar,12224,1,Tubería general,7/3/2017
+310,2017,Alcudia de Veo,12222,1,Boca de Riego,14/3/2017
+314,2017,Villahermosa del Río,12124,1,Acometida,16/3/2017
+315,2017,La Mata de Morella,12312,0,,22/3/2017
+319,2017,Caudiel,12440,1,Acometida,28/3/2017
+320,2017,Caudiel,12440,1,Acometida,28/3/2017
+321,2017,Caudiel,12440,1,Tubería general,28/3/2017
+322,2017,Caudiel,12440,1,Llave de paso de la acometida,28/3/2017
+323,2017,Eslida,12528,1,Tubería general,29/3/2017
+328,2017,Chóvar,12499,1,Interior vivienda,20/4/2017
+330,2017,Forcall,12310,1,Tubería general,25/4/2017
+331,2017,Pobla de Benifassà,12599,1,Tubería general,26/4/2017
+332,2017,Pobla de Benifassà,12599,1,Acometida,26/4/2017
+337,2017,Alquerías (Montanejos),12448,1,Tubería general,8/5/2017
+342,2017,Rosell,12511,1,Tubería general,11/5/2017
+343,2017,Boixar (Pobla de Benifassà),12599,1,Acometida,15/5/2017
+344,2017,Eslida,12528,1,Tubería general,16/5/2017
+347,2017,Montanejos,12448,1,Acometida,23/5/2017
+353,2017,Forcall,12310,1,Acometida,29/5/2017
+354,2017,Pobla de Benifassà,12599,1,Acometida,30/5/2017
+359,2017,Caudiel,12440,1,Tubería general,13/6/2017
+369,2017,Todolella,12312,1,Tubería general,22/6/2017
+371,2017,Todolella,12312,1,Tubería general,27/6/2017
+372,2017,Todolella,12312,1,Tubería general,27/6/2017
+374,2017,Cinctorres,12318,1,Tubería general,28/6/2017
+380,2017,Cinctorres,12318,1,Acometida,10/7/2017
+381,2017,Cinctorres,12318,1,Acometida,10/7/2017
+384,2017,Villahermosa del Río,12124,1,Tubería general,11/7/2017
+386,2017,Ludiente,12123,1,Acometida,11/7/2017
+392,2017,Villahermosa del Río,12124,1,Acometida,17/7/2017
+393,2017,Herbés,12317,1,Tubería general,18/7/2017
+396,2017,Algimia de Almonacid,12414,1,Acometida,19/7/2017
+398,2017,Jérica,12450,1,Acometida,19/7/2017
+400,2017,Xodos,12134,1,Llave de paso de la acometida,24/7/2017
+406,2017,Alfondeguilla,12609,1,Acometida,26/7/2017
+412,2017,La Torre d'En Besora,12161,1,Acometida,7/8/2017
+413,2017,Torás,12431,1,Acometida,8/8/2017
+415,2017,Caudiel,12440,1,Tubería general,9/8/2017
+416,2017,Geldo,12412,1,Tubería general,10/8/2017
+418,2017,Cinctorres,12318,1,Acometida,14/8/2017
+420,2017,Jérica,12450,1,Acometida,16/8/2017
+423,2017,Forcall,12310,1,Tubería general,17/8/2017
+424,2017,Puebla de Arenoso,12428,1,Tubería general,21/8/2017
+426,2017,Alquerías (Montanejos),12448,1,Llave de paso de la acometida,24/8/2017
+427,2017,Alquerías (Montanejos),12448,1,Interior vivienda,24/8/2017
+429,2017,Alfondeguilla,12609,1,Acometida,28/8/2017
+432,2017,Algimia de Almonacid,12414,1,Acometida,11/9/2017
+435,2017,Alfondeguilla,12609,1,Acometida,11/9/2017
+436,2017,Lucena del Cid,12120,1,Acometida,12/9/2017
+444,2017,Montanejos,12448,1,Acometida,18/9/2017
+445,2017,Montanejos,12448,1,Acometida,18/9/2017
+449,2017,Herbés,12317,1,Tubería general,25/9/2017
+450,2017,Forcall,12310,1,Tubería general,26/9/2017
+451,2017,Pobla de Benifassà,12599,1,Tubería general,27/9/2017
+453,2017,Pobla de Benifassà,12599,1,Interior vivienda,27/9/2017
+457,2017,Jérica,12450,1,Acometida,28/9/2017
+458,2017,La Jana,12340,1,Tubería general,4/10/2017
+459,2017,Castillo de Villamalefa,12123,0,,2/10/2017
+463,2017,Benafer,12449,1,Interior vivienda,10/10/2017
+466,2017,La Jana,12340,1,Tubería general,16/10/2017
+467,2017,La Jana,12340,1,Acometida,16/10/2017
+469,2017,Sacañet,12469,1,Acometida,18/10/2017
+479,2017,Pobla de Benifassà,12599,1,Acometida,26/10/2017
+480,2017,Sacañet,12469,1,Acometida,25/10/2017
+484,2017,Los Calpes (Puebla de Arenoso),12428,1,Tubería general,2/11/2017
+486,2017,Alfondeguilla,12609,1,Interior vivienda,8/11/2017
+487,2017,Alfondeguilla,12609,1,Acometida,8/11/2017
+488,2017,Pobla de Benifassà,12599,1,Acometida,9/11/2017
+497,2017,Chóvar,12499,0,,21/11/2017
+498,2017,La Torre d'En Besora,12161,1,Acometida,22/11/2017
+505,2017,Portell de Morella,12318,1,Acometida,29/11/2017
+507,2017,Artana,12527,1,Acometida,4/12/2017
+513,2017,Herbés,12317,1,Llave de paso de la acometida,14/12/2017
+515,2017,Montanejos,12448,1,Acometida,18/12/2017
+516,2017,Montanejos,12448,1,Acometida,18/12/2017
+520,2017,Sant Joan de Moró,12130,0,,21/12/2017
+521,2017,Pina de Montalgrao,12429,1,Acometida,26/12/2017
+525,2017,Geldo,12412,1,Interior vivienda,27/12/2017
+531,2018,Algimia de Almonacid,12414,1,Tubería general,4/1/2018
+535,2018,Cedraman,12123,1,Interior vivienda,10/1/2018
+537,2018,Ayódar,12224,0,,15/1/2018
+539,2018,Algimia de Almonacid,12414,1,Acometida,17/1/2018
+548,2018,Pavías,12449,1,Boca de Riego,29/1/2018
+553,2018,Vistabella del Maestrat,12135,1,Tubería general,14/2/2018
+560,2018,Geldo,12412,0,,26/2/2018
+562,2018,Cinctorres,12318,1,Acometida,28/2/2018
+568,2018,Vistabella del Maestrat,12135,1,Llave de paso de la acometida,12/3/2018
+570,2018,La Jana,12340,1,Acometida,13/3/2018
+571,2018,Villahermosa del Río,12124,1,Acometida,20/3/2018
+572,2018,Alfondeguilla,12609,1,Interior vivienda,21/3/2018
+576,2018,Caudiel,12440,1,Interior vivienda,22/3/2018
+577,2018,Jérica,12450,1,Tubería general,22/3/2018
+578,2018,Soneja,12480,0,,27/3/2018
+579,2018,La Torre d'En Besora,12161,1,Acometida,28/3/2018
+581,2018,Lucena del Cid,12120,1,Tubería general,29/3/2018
+584,2018,Ludiente,12123,1,Tubería general,4/4/2018
+585,2018,Chóvar,12499,,,9/4/2018
+587,2018,Portell de Morella,12318,1,Llave de paso de la acometida,10/4/2018
+590,2018,Algimia de Almonacid,12414,1,Boca de Riego,11/4/2018
+593,2018,Alfondeguilla,12609,1,Acometida,16/4/2018
+594,2018,Vallat,12230,1,Interior vivienda,17/4/2018
+598,2018,Gaibiel,12415,0,,24/4/2018
+600,2018,Pobla de Benifassà,12599,1,Acometida,2/5/2018
+602,2018,Caudiel,12440,1,Interior vivienda,7/5/2018
+604,2018,Artana,12527,1,Acometida,9/5/2018
+606,2018,Chóvar,12499,1,Acometida,10/5/2018
+614,2018,Ballestar (Pobla de Benifassà),12599,1,Acometida,21/5/2018
+616,2018,Chóvar,12499,1,Tubería general,22/5/2018
+621,2018,La Torre d'En Besora,12161,1,Acometida,28/5/2018
+622,2018,Torás,12431,1,Acometida,30/5/2018
+631,2018,Artana,12527,1,Acometida,11/6/2018
+632,2018,La Torre d'En Besora,12161,1,Tubería general,12/6/2018
+634,2018,Castillo de Villamalefa,12123,1,Llave de paso de la acometida,25/6/2018
+636,2018,Lucena del Cid,12120,0,,26/6/2018
+638,2018,Pavías,12449,1,Acometida,2/7/2018
+640,2018,Geldo,12412,1,Tubería general,2/7/2018
+641,2018,Montanejos,12448,1,Acometida,3/7/2018
+642,2018,Ballestar (Pobla de Benifassà),12599,1,Acometida,4/7/2018
+643,2018,Ballestar (Pobla de Benifassà),12599,1,Tubería general,4/7/2018
+645,2018,Diputación,12004,1,Acometida,4/7/2018
+649,2018,Gaibiel,12415,1,Acometida,9/7/2018
+650,2018,Eslida,12528,1,Acometida,9/7/2018
+656,2018,Pavías,12449,1,Acometida,16/7/2018
+657,2018,Eslida,12528,1,Tubería general,16/7/2018
+669,2018,Caudiel,12440,1,Acometida,7/8/2018
+673,2018,Jérica,12450,1,Acometida,8/8/2018
+678,2018,Alfondeguilla,12609,1,Acometida,13/8/2018
+679,2018,Alfondeguilla,12609,1,Acometida,13/8/2018
+688,2018,Palanques,12311,1,Tubería general,29/8/2018
+691,2018,Jérica,12450,1,Tubería general,3/9/2018
+693,2018,Boixar (Pobla de Benifassà),12599,1,Llave de paso de la acometida,5/9/2018
+697,2018,Soneja,12480,1,Acometida,11/9/2018
+698,2018,Benassal,12160,1,Acometida,12/9/2018
+699,2018,Cinctorres,12318,1,Tubería general,17/9/2018
+700,2018,La Torre d'En Besora,12161,1,Tubería general,17/9/2018
+701,2018,La Torre d'En Besora,12161,1,Acometida,17/9/2018
+706,2018,La Torre d'En Besora,12161,1,Tubería general,24/9/2018
+714,2018,Fuentes de Ayódar,12225,1,Interior vivienda,22/10/2018
+715,2018,Fuentes de Ayódar,12225,1,Interior vivienda,22/10/2018
+717,2018,Todolella,12312,1,Tubería general,23/10/2018
+720,2018,Aín,12222,1,Tubería general,30/10/2018
+721,2018,Eslida,12528,1,Tubería general,31/10/2018
+722,2018,Gaibiel,12415,0,,8/11/2018
+726,2018,Forcall,12310,1,Tubería general,21/11/2018
+729,2018,Cedraman,12123,1,Acometida,27/11/2018
+732,2018,Caudiel,12440,1,Tubería general,28/11/2018
+733,2018,Gaibiel,12415,1,Tubería general,4/12/2018
+734,2018,Gaibiel,12415,1,Tubería general,4/12/2018
+738,2018,Eslida,12528,1,Tubería general,20/12/2018
+744,2019,Arañuel,12232,1,Acometida,7/1/2019
+745,2019,Las Girabas (Ludiente),12123,1,Tubería general,7/1/2019
+748,2019,Caudiel,12440,1,Tubería general,10/1/2019
+754,2019,Arañuel,12232,1,Acometida,30/1/2019
+759,2019,Alfondeguilla,12609,1,Interior vivienda,11/2/2019
+770,2019,Benassal,12160,0,,25/2/2019
+771,2019,Benafigos,12134,1,Acometida,26/2/2019
+772,2019,Boixar (Pobla de Benifassà),12599,1,Acometida,27/2/2019
+773,2019,Boixar (Pobla de Benifassà),12599,1,Acometida,27/2/2019
+774,2019,Diputación,12004,1,Interior vivienda,28/2/2019
+777,2019,Pavías,12449,1,Acometida,6/3/2019
+782,2019,Montanejos,12448,1,Acometida,13/3/2019
+783,2019,Montanejos,12448,1,Tubería general,13/3/2019
+786,2019,Pobla de Benifassà,12599,0,,20/3/2019
+787,2019,Pobla de Benifassà,12599,0,,20/3/2019
+804,2019,Eslida,12528,1,Acometida,8/5/2019
+806,2019,Caudiel,12440,1,Tubería general,9/5/2019
+808,2019,Artana,12527,1,Acometida,14/5/2019
+810,2019,Benassal,12160,1,Acometida,15/5/2019
+811,2019,Eslida,12528,1,Tubería general,16/5/2019
+815,2019,Casas del Rio (Rosell),12511,1,Tubería general,29/5/2019
+821,2019,Alfondeguilla,12609,0,,4/6/2019
+824,2019,Gaibiel,12415,1,Tubería general,10/6/2019
+825,2019,Soneja,12480,1,Tubería general,10/6/2019
+829,2019,Ayódar,12224,1,Interior vivienda,11/6/2019
+839,2019,Boixar (Pobla de Benifassà),12599,1,Acometida,25/6/2019
+840,2019,Chóvar,12499,1,Tubería general,26/6/2019
+841,2019,Eslida,12528,1,Tubería general,27/6/2019
+842,2019,Caudiel,12440,1,Acometida,1/7/2019
+844,2019,Alfondeguilla,12609,1,Tubería general,3/7/2019
+849,2019,Herbés,12317,1,Tubería general,9/7/2019
+857,2019,Benassal,12160,1,Acometida,17/7/2019
+858,2019,Benassal,12160,1,Acometida,17/7/2019
+859,2019,Soneja,12480,1,Tubería general,18/7/2019
+863,2019,Jérica,12450,0,,24/7/2019
+864,2019,Benafer,12449,1,Tubería general,5/8/2019
+868,2019,Herbés,12317,1,Tubería general,13/8/2019
+872,2019,Los Calpes (Puebla de Arenoso),12428,1,Tubería general,19/8/2019
+875,2019,Cedraman,12123,1,Acometida,27/8/2019
+878,2019,Soneja,12480,1,Tubería general,3/9/2019
+881,2019,Alfondeguilla,12609,1,Tubería general,2/9/2019
+883,2019,Soneja,12480,1,Tubería general,9/9/2019
+888,2019,Alfondeguilla,12609,1,Tubería general,24/9/2019
+896,2019,Herbés,12317,1,Interior vivienda,7/10/2019
+898,2019,La Torre d'En Besora,12161,1,Acometida,7/10/2019
+899,2019,Rosell,12511,0,,8/10/2019
+900,2019,Los Calpes (Puebla de Arenoso),12428,1,Tubería general,10/10/2019
+906,2019,Artana,12527,1,Tubería general,15/10/2019
+911,2019,Pobla de Benifassà,12599,1,Interior vivienda,17/10/2019
+917,2019,Pavías,12449,1,Acometida,23/10/2019
+918,2019,Jérica,12450,1,Tubería general,23/10/2019
+922,2019,Artana,12527,1,Acometida,29/10/2019
+925,2019,Jérica,12450,1,Acometida,31/10/2019
+928,2019,Xodos,12134,1,Interior vivienda,5/11/2019
+932,2019,Cinctorres,12318,1,Acometida,11/11/2019
+933,2019,Caudiel,12440,1,Tubería general,12/11/2019
+935,2019,Lucena del Cid,12120,0,,14/11/2019
+939,2019,Caudiel,12440,1,Acometida,19/11/2019
+940,2019,Caudiel,12440,1,Tubería general,19/11/2019
+945,2019,Cedraman,12123,1,Interior vivienda,26/11/2019
+950,2019,Las Girabas (Ludiente),12123,1,Tubería general,11/12/2019
+955,2019,Aín,12222,1,Acometida,26/12/2019
+961,2020,Zucaina,12125,1,Acometida,9/1/2020
+962,2020,Zucaina,12125,1,Tubería general,9/1/2020
+964,2020,Eslida,12528,1,Acometida,14/1/2020
+966,2020,Eslida,12528,1,Interior vivienda,22/1/2020
+967,2020,Jérica,12450,1,Acometida,23/1/2020
+969,2020,Boixar (Pobla de Benifassà),12599,1,Acometida,29/1/2020
+970,2020,Alfondeguilla,12609,1,Tubería general,3/2/2020
+972,2020,Portell de Morella,12318,1,Tubería general,6/2/2020
+978,2020,Soneja,12480,1,Acometida,18/2/2020
+983,2020,Eslida,12528,1,Acometida,20/2/2020
+986,2020,Ayódar,12224,1,Interior vivienda,3/3/2020
+991,2020,Forcall,12310,0,,12/3/2020
+992,2020,Costur,12119,1,Acometida,18/3/2020
+994,2020,Villores,12311,1,Llave de paso de la acometida,23/4/2020
+998,2020,Villores,12311,1,HIDRATANTE,23/4/2020
+1001,2020,Villores,12311,1,Acometida,23/4/2020
+1002,2020,Castellfort,12159,1,Acometida,28/4/2020
+1005,2020,Jérica,12450,1,Tubería general,29/4/2020
+1006,2020,Caudiel,12440,1,Tubería general,30/4/2020
+1007,2020,Torás,12431,0,,6/5/2020
+1017,2020,Eslida,12528,0,,28/5/2020
+1022,2020,Puebla de Arenoso,12428,1,Tubería general,15/6/2020
+1027,2020,La Pobla Tornesa,12191,1,Interior vivienda,22/6/2020
+1031,2020,Artana,12527,1,Interior vivienda,23/6/2020
+1033,2020,Aín,12222,1,Tubería general,25/6/2020
+1034,2020,Castellfort,12159,1,Tubería general,30/6/2020
+1037,2020,Palanques,12311,1,Tubería general,30/6/2020
+1039,2020,Soneja,12480,1,Tubería general,1/7/2020
+1040,2020,Vall de Almonacid,12414,1,Acometida,1/7/2020
+1045,2020,Ludiente,12123,1,Tubería general,2/7/2020
+1047,2020,Soneja,12480,1,Tubería general,6/7/2020
+1048,2020,Soneja,12480,1,Tubería general,6/7/2020
+1055,2020,Gaibiel,12415,0,,8/7/2020
+1057,2020,Artana,12527,1,Tubería general,8/7/2020
+1058,2020,Zucaina,12125,1,Tubería general,9/7/2020
+1059,2020,Pavías,12449,1,Acometida,10/7/2020
+1060,2020,Pavías,12449,1,Acometida,10/7/2020
+1063,2020,Jérica,12450,1,Acometida,16/7/2020
+1068,2020,Forcall,12310,1,Tubería general,21/7/2020
+1072,2020,Eslida,12528,1,Tubería general,22/7/2020
+1075,2020,Caudiel,12440,0,,27/7/2020
+1076,2020,Montanejos,12448,0,Acometida,28/7/2020
+1081,2020,La Mata de Morella,12312,1,Boca de Riego,3/8/2020
+1082,2020,Portell de Morella,12318,1,Acometida,3/8/2020
+1083,2020,Arañuel,12232,1,Interior vivienda,4/8/2020
+1088,2020,Castellfort,12159,1,Acometida,10/8/2020
+1090,2020,Fredes (Pobla de Benifassà),12599,0,,12/8/2020
+1093,2020,Benassal,12160,1,Tubería general,17/8/2020
+1095,2020,Herbés,12317,1,Acometida,19/8/2020
+1097,2020,Forcall,12310,1,Tubería general,20/8/2020
+1099,2020,Artana,12527,1,Tubería general,25/8/2020
+1104,2020,Torás,12431,1,Acometida,1/9/2020
+1108,2020,Forcall,12310,1,Tubería general,9/9/2020
+1111,2020,Forcall,12310,0,,14/9/2020
+1114,2020,Boixar (Pobla de Benifassà),12599,1,Acometida,16/9/2020
+1115,2020,Lucena del Cid,12120,1,Acometida,17/9/2020
+1116,2020,Chóvar,12499,1,Acometida,21/9/2020
+1121,2020,Alcudia de Veo,12222,0,,6/10/2020
+1123,2020,Forcall,12310,1,Tubería general,7/10/2020
+1125,2020,Arañuel,12232,1,Interior vivienda,8/10/2020
+1126,2020,Lucena del Cid,12120,1,Acometida,24/9/2020
+1128,2020,Cinctorres,12318,0,,9/9/2020
+1131,2020,Pobla de Benifassà,12599,1,Acometida,14/10/2020
+1135,2020,Algimia de Almonacid,12414,0,,15/10/2020
+1141,2020,Novaliches (Jérica),12450,1,Acometida,21/10/2020
+1143,2020,Arañuel,12232,1,Tubería general,26/10/2020
+1144,2020,Fuente la Reina,12428,1,Interior vivienda,27/10/2020
+1147,2020,Pavías,12449,1,Acometida,2/11/2020
+1152,2020,Forcall,12310,1,Acometida,16/11/2020
+1154,2020,Vall d'Umbri,12190,0,,18/11/2020
+1155,2020,Borriol,12190,1,Acometida,19/11/2020
+1156,2020,Borriol,12190,1,Acometida,19/11/2020
+1158,2020,Borriol,12190,1,Tubería general,19/11/2020
+1168,2020,Pobla de Benifassà,12599,1,Tubería general,14/12/2020
+1169,2020,Montanejos,12448,0,,15/12/2020
+1172,2020,Chóvar,12499,1,Acometida,18/12/2020
+1177,2020,Artana,12527,1,Tubería general,29/1/2020
+1184,2021,Argelita,12230,1,Interior vivienda,28/1/2021
+1185,2021,El Toro,12429,1,Tubería general,2/2/2021
+1186,2021,Artana,12527,1,Tubería general,4/2/2021
+1188,2021,Viver,12460,1,Interior vivienda,11/2/2021
+1189,2021,Viver,12460,1,Llave de paso de la general,11/2/2021
+1191,2021,Viver,12460,1,Tubería general,11/2/2021
+1193,2021,Viver,12460,1,Tubería general,11/2/2021
+1194,2021,Artana,12527,1,No se detectaron fugas,16/2/2021
+1199,2021,Arañuel,12232,1,Interior vivienda,23/2/2021
+1200,2021,Artana,12527,1,Tubería general,24/2/2021
+1201,2021,Lucena del Cid,12120,1,Acometida,1/3/2021
+1202,2021,Lucena del Cid,12120,1,Tubería general,1/3/2021
+1204,2021,Arañuel,12232,1,No se detectaron fugas,17/3/2021
+1205,2021,Vistabella del Maestrat,12135,1,Tubería general,18/3/2021
+1208,2021,Caudiel,12440,1,Acometida,23/3/2021
+1213,2021,Xert,12360,1,Tubería general,25/3/2021
+1215,2021,La Jana,12340,1,Tubería general,26/3/2021
+1220,2021,Pobla de Benifassà,12599,1,Tubería general,30/3/2021
+1221,2021,Ayódar,12224,1,Acometida,31/3/2021
+1222,2021,Benassal,12160,1,Tubería general,1/4/2021
+1225,2021,Gaibiel,12415,1,Tubería general,7/4/2021
+1226,2021,Gaibiel,12415,1,Tubería general,7/4/2021
+1233,2021,Sot de Ferrer,12489,1,Tubería general,21/4/2021
+1234,2021,Rosell,12511,1,Interior vivienda,26/4/2021
+1238,2021,Aín,12222,1,Tubería general,3/5/2021
+1250,2021,Alfondeguilla,12609,1,Acometida,24/5/2021
+1254,2021,Alfondeguilla,12609,1,Interior vivienda,31/5/2021
+1255,2021,Alfondeguilla,12609,1,Tubería general,31/5/2021
+1263,2021,Vall de Almonacid,12414,1,No se detectaron fugas,14/6/2021
+1266,2021,Arañuel,12232,1,No se detectaron fugas,16/6/2021
+1282,2021,Cinctorres,12318,1,Tubería general,12/7/2021
+1283,2021,Pavías,12449,1,Acometida,13/7/2021
+1284,2021,Pavías,12449,1,Acometida,13/7/2021
+1286,2021,La Torre d'En Besora,12161,1,Tubería general,14/7/2021
+1289,2021,Soneja,12480,1,Llave de paso de la general,15/7/2021
+1293,2021,Caudiel,12440,1,Acometida,19/7/2021
+1300,2021,Palanques,12311,1,Tubería general,21/7/2021
+1304,2021,Jérica,12450,1,Acometida,27/7/2021
+1309,2021,Matet,12415,1,Acometida,3/8/2021
+1311,2021,Palanques,12311,1,Acometida,4/8/2021
+1316,2021,Algimia de Almonacid,12414,1,Boca de Riego,9/8/2021
+1320,2021,Jérica,12450,1,Tubería general,12/8/2021
+1327,2021,Lucena del Cid,12120,1,No se detectaron fugas,2/9/2021
+1329,2021,Ayódar,12224,1,Acometida,6/9/2021
+1330,2021,Pavías,12449,1,Acometida,7/9/2021
+1331,2021,Pavías,12449,1,Boca de Riego,7/9/2021
+1332,2021,Costur,12119,1,Acometida,8/9/2021
+1335,2021,Matet,12415,1,No se detectaron fugas,15/9/2021
+1336,2021,Gaibiel,12415,1,Acometida,20/9/2021
+1343,2021,Atzeneta,12132,1,Tubería general,5/10/2021
+1344,2021,Atzeneta,12132,1,Tubería general,5/10/2021
+1345,2021,Atzeneta,12132,1,Tubería general,5/10/2021
+1346,2021,Fredes (Pobla de Benifassà),12599,1,Acometida,6/10/2021
+1348,2021,Pobla de Benifassà,12599,1,Tubería general,6/10/2021
+1349,2021,Algimia de Almonacid,12414,1,Tubería general,7/10/2021
+1352,2021,Jérica,12450,1,Tubería general,18/10/2021
+1353,2021,Geldo,12412,1,Acometida,19/10/2021
+1354,2021,Benafer,12449,1,No se detectaron fugas,20/10/2021
+1355,2021,Alfondeguilla,12609,1,Acometida,20/10/2021
+1362,2021,Costur,12119,1,No se detectaron fugas,2/11/2021
+1364,2021,Fredes (Pobla de Benifassà),12599,1,Acometida,4/11/2021
+1367,2021,La Mata de Morella,12312,1,No se detectaron fugas,10/11/2021
+1373,2021,Villanueva de Viver,12428,1,Acometida,18/11/2021
+1376,2021,Corachar (Pobla de Benifassà),12599,1,Tubería general,22/11/2021
+1377,2021,Eslida,12528,1,Tubería general,23/11/2021
+1381,2021,Benafer,12449,1,Tubería general,1/12/2021
+1385,2021,Soneja,12480,1,Tubería general,13/12/2021
+1389,2021,Castellfort,12159,1,Acometida,16/12/2021
+1391,2021,Castellfort,12159,1,Acometida,16/12/2021
+1395,2021,Alfondeguilla,12609,1,Acometida,20/12/2021
+1396,2021,Villahermosa del Río,12124,1,Acometida,22/12/2021
+1402,2021,La Torre d'En Besora,12161,1,Tubería general,30/12/2021
+4,2016,Canales (Sacañet),12469,1,Llave de paso de la general,12/1/2016
+9,2016,La Monzona (Puebla de Arenoso),12428,0,,19/1/2016
+10,2016,Cinctorres,12318,1,Acometida,20/1/2016
+13,2016,Lucena del Cid,12120,0,,28/1/2016
+15,2016,Torás,12431,1,Llave de paso de la general,1/2/2016
+17,2016,Torás,12431,1,Acometida,1/2/2016
+21,2016,Eslida,12528,0,,4/2/2016
+24,2016,Zorita del Maestrazgo,12311,1,Acometida,9/2/2016
+25,2016,Zorita del Maestrazgo,12311,1,Acometida,9/2/2016
+29,2016,Vall de Almonacid,12414,1,Acometida,17/2/2016
+30,2016,Matet,12415,0,,18/2/2016
+32,2016,Castellfort,12159,1,Acometida,22/2/2016
+35,2016,Algimia de Almonacid,12414,1,Tubería general,2/3/2016
+37,2016,Matet,12415,0,,7/3/2016
+44,2016,La Torre d'En Doménec,12184,1,Acometida,17/3/2016
+51,2016,Zucaina,12125,1,Tubería general,7/4/2016
+52,2016,Zucaina,12125,1,Llave de paso de la general,7/4/2016
+58,2016,Higueras,12449,0,,19/4/2016
+59,2016,Eslida,12528,0,,20/4/2016
+61,2016,Torás,12431,1,Llave de paso de la acometida,25/4/2016
+62,2016,Pavías,12449,1,Tubería general,25/4/2016
+66,2016,Xodos,12134,1,Acometida,26/4/2016
+69,2016,Sot de Ferrer,12489,1,Acometida,27/4/2016
+70,2016,La Monzona (Puebla de Arenoso),12428,1,Tubería general,2/5/2016
+72,2016,Xodos,12134,1,Llave de paso de la acometida,4/5/2016
+73,2016,Santa Magdalena de Pulpis,12597,1,Tubería general,10/5/2016
+76,2016,Alquerías (Montanejos),12448,1,Tubería general,16/5/2016
+77,2016,Eslida,12528,1,Tubería general,17/5/2016
+78,2016,Jérica,12450,1,Tubería general,17/5/2016
+83,2016,Castellfort,12159,1,Acometida,18/5/2016
+85,2016,Geldo,12412,1,Tubería general,24/5/2016
+86,2016,Geldo,12412,1,Interior vivienda,24/5/2016
+87,2016,Geldo,12412,1,Acometida,24/5/2016
+88,2016,Benassal,12160,1,Tubería general,25/5/2016
+92,2016,Pavías,12449,1,Acometida,8/6/2016
+97,2016,Diputación,12004,1,Tubería general,17/6/2016
+101,2016,Soneja,12480,1,Sin identificación,20/6/2016
+102,2016,Herbés,12317,1,Sin identificación,22/6/2016
+111,2016,Soneja,12480,2,Acometida,4/7/2016
+113,2016,Cinctorres,12318,1,Llave de paso de la acometida,5/7/2016
+114,2016,Cinctorres,12318,1,Llave de paso de la acometida,5/7/2016
+117,2016,Cinctorres,12318,1,Llave de paso de la general,5/7/2016
+123,2016,Pobla de Benifassà,12599,1,Acometida,12/7/2016
+127,2016,Benafigos,12134,1,Acometida,12/7/2016
+131,2016,Soneja,12480,1,Tubería general,14/7/2016
+135,2016,Alfondeguilla,12609,1,Acometida,20/7/2016
+136,2016,Diputación,12004,1,Interior vivienda,20/7/2016
+137,2016,Eslida,12528,1,Tubería general,20/7/2016
+139,2016,Caudiel,12440,1,Sin identificación,21/7/2016
+141,2016,Benafigos,12134,0,,25/7/2016
+142,2016,Alfondeguilla,12609,1,Acometida,26/7/2016
+144,2016,Pobla de Benifassà,12599,1,Acometida,27/7/2016
+145,2016,Algimia de Almonacid,12414,0,,28/7/2016
+147,2016,Pobla de Benifassà,12599,1,Llave de paso de la general,1/8/2016
+148,2016,Soneja,12480,1,Tubería general,3/8/2016
+150,2016,Alfondeguilla,12609,1,Acometida,3/8/2016
+151,2016,Alfondeguilla,12609,1,Interior vivienda,3/8/2016
+159,2016,Lucena del Cid,12120,0,,25/8/2016
+162,2016,Ballestar (Pobla de Benifassà),12599,0,,31/8/2016
+164,2016,Lucena del Cid,12120,1,Acometida,1/9/2016
+165,2016,Algimia de Almonacid,12414,0,,16/8/2016
+166,2016,Figueroles,12122,1,Tubería general,17/8/2016
+167,2016,Herbés,12317,0,,22/8/2016
+171,2016,Figueroles,12122,1,Boca de Riego,24/8/2016
+178,2016,Caudiel,12440,1,Boca de Riego,6/9/2016
+180,2016,Eslida,12528,1,Acometida,7/9/2016
+185,2016,Lucena del Cid,12120,1,Tubería general,12/9/2016
+187,2016,Benafigos,12134,1,Tubería general,13/9/2016
+188,2016,Alcudia de Veo,12222,1,Tubería general,14/9/2016
+189,2016,Alcudia de Veo,12222,1,Tubería general,14/9/2016
+191,2016,Villahermosa del Río,12124,1,Sin identificación,15/9/2016
+194,2016,Eslida,12528,1,Tubería general,20/9/2016
+202,2016,Villamalur,12224,1,Interior vivienda,4/10/2016
+205,2016,Caudiel,12440,1,Acometida,5/10/2016
+206,2016,Alfondeguilla,12609,1,Sin identificación,5/10/2016
+207,2016,Alfondeguilla,12609,1,Sin identificación,5/10/2016
+220,2016,Caudiel,12440,1,Tubería general,17/10/2016
+225,2016,Sant Joan de Moró,12130,1,Tubería general,25/10/2016
+230,2016,Pavías,12449,1,Sin identificación,3/11/2016
+231,2016,Sot de Ferrer,12489,1,Acometida,7/11/2016
+234,2016,Sot de Ferrer,12489,1,Acometida,7/11/2016
+235,2016,Sot de Ferrer,12489,1,Acometida,7/11/2016
+238,2016,Boixar (Pobla de Benifassà),12599,1,Acometida,8/11/2016
+239,2016,Boixar (Pobla de Benifassà),12599,1,Boca de Riego,8/11/2016
+246,2016,Caudiel,12440,1,Sin identificación,10/11/2016
+250,2016,Vall de Almonacid,12141,1,Acometida,14/11/2016
+252,2016,Diputación,12004,1,Sin identificación,15/11/2016
+254,2016,Lucena del Cid,12120,0,,22/11/2016
+255,2016,Torás,12431,1,Acometida,24/11/2016
+256,2016,Torás,12431,1,Acometida,24/11/2016
+261,2016,Torás,12431,1,Llave de paso de la acometida,24/11/2016
+262,2016,Sacañet,12469,1,Acometida,28/11/2016
+264,2016,Caudiel,12440,1,Tubería general,5/12/2016
+267,2016,Catí,12513,1,Acometida,12/12/2016
+269,2016,Lucena del Cid,12120,0,,13/12/2016
+272,2016,Caudiel,12440,1,Acometida,20/12/2016
+276,2017,Eslida,12528,1,Acometida,11/1/2017
+277,2017,Eslida,12528,1,Acometida,11/1/2017
+278,2017,Pavías,12449,1,Acometida,12/11/2017
+292,2017,Geldo,12412,1,Acometida,2/2/2017
+293,2017,Gaibiel,12415,0,,6/2/2017
+302,2017,Geldo,12412,1,Interior vivienda,21/2/2017
+308,2017,Diputación,12004,1,Tubería general,6/3/2017
+311,2017,Torás,12431,1,Acometida,15/3/2017
+316,2017,Caudiel,12440,1,Acometida,28/3/2017
+317,2017,Caudiel,12440,1,Acometida,28/3/2017
+318,2017,Caudiel,12440,1,Acometida,28/3/2017
+324,2017,Soneja,12480,0,,3/4/2017
+327,2017,Caudiel,12440,0,,11/4/2017
+329,2017,Villamalur,12224,1,Tubería general,24/4/2017
+333,2017,Gaibiel,12415,1,Acometida,27/4/2017
+334,2017,Aín,12222,1,Acometida,3/5/2017
+335,2017,Aín,12222,1,Interior vivienda,3/5/2017
+340,2017,Ayódar,12224,1,Tubería general,9/5/2017
+341,2017,Alfondeguilla,12609,1,Tubería general,10/5/2017
+346,2017,Montanejos,12448,1,Acometida,23/5/2017
+349,2017,Montanejos,12448,1,Tubería general,23/5/2017
+351,2017,Alfondeguilla,12609,1,Tubería general,24/5/2017
+352,2017,Forcall,12310,1,Acometida,29/5/2017
+357,2017,Fuente la Reina,12428,0,,8/6/2017
+360,2017,Eslida,12528,1,Tubería general,13/6/2017
+361,2017,Forcall,12310,1,Acometida,14/6/2017
+362,2017,Forcall,12310,1,Acometida,14/6/2017
+364,2017,Artana,12527,1,Interior vivienda,15/6/2017
+366,2017,Pobla de Benifassà,12599,0,,20/6/2017
+375,2017,Cinctorres,12318,1,Interior vivienda,28/6/2017
+376,2017,Lucena del Cid,12120,1,Acometida,3/7/2017
+378,2017,Alfondeguilla,12609,1,Acometida,5/7/2017
+379,2017,Cinctorres,12318,1,Acometida,6/7/2017
+382,2017,Alquerías (Montanejos),12448,1,Tubería general,11/7/2017
+383,2017,Alquerías (Montanejos),12448,1,Acometida,11/7/2017
+385,2017,Villahermosa del Río,12124,1,Acometida,11/7/2017
+388,2017,Vall de Almonacid,12414,1,Interior vivienda,12/7/2017
+389,2017,Ayódar,12224,1,Acometida,12/7/2017
+390,2017,La Torre d'En Besora,12161,0,,13/7/2017
+404,2017,Jérica,12450,1,Tubería general,26/7/2017
+409,2017,Los Calpes (Puebla de Arenoso),12428,1,Tubería general,1/8/2017
+411,2017,Eslida,12528,0,,3/8/2017
+414,2017,Caudiel,12440,1,Acometida,9/8/2017
+417,2017,Geldo,12412,1,Tubería general,10/8/2017
+419,2017,Cinctorres,12318,1,Tubería general,14/8/2017
+433,2017,Alfondeguilla,12609,1,Acometida,11/9/2017
+434,2017,Alfondeguilla,12609,1,Acometida,11/9/2017
+437,2017,Villores,12311,1,Acometida,13/9/2017
+438,2017,Forcall,12310,1,Boca de Riego,13/9/2017
+439,2017,Cinctorres,12318,1,Tubería general,13/9/2017
+440,2017,Villanueva de Viver,12428,1,Acometida,14/9/2017
+441,2017,Torás,12431,1,Acometida,14/9/2017
+443,2017,Artana,12527,1,Tubería general,14/9/2017
+446,2017,Todolella,12312,0,,19/9/2017
+447,2017,Eslida,12528,1,Acometida,21/9/2017
+454,2017,Villahermosa del Río,12124,1,Tubería general,28/9/2017
+455,2017,Montanejos,12448,1,Tubería general,28/9/2017
+456,2017,Benafer,12449,1,Acometida,28/9/2017
+460,2017,Villahermosa del Río,12124,0,,3/10/2017
+462,2017,Benafer,12449,1,Tubería general,10/10/2017
+465,2017,Vallibona,12315,1,Llave de paso de la acometida,11/10/2017
+468,2017,Caudiel,12440,1,Llave de paso de la general,17/10/2017
+470,2017,Chóvar,12499,0,,23/10/2017
+474,2017,Fredes (Pobla de Benifassà),12599,1,Acometida,24/10/2017
+475,2017,Fredes (Pobla de Benifassà),12599,1,Sin identificación,24/10/2017
+476,2017,Gaibiel,12415,1,Tubería general,25/10/2017
+477,2017,Eslida,12528,1,Acometida,25/10/2017
+478,2017,Eslida,12528,1,Acometida,25/10/2017
+481,2017,Sacañet,12469,1,Tubería general,25/10/2017
+490,2017,Villahermosa del Río,12124,0,,10/11/2017
+491,2017,Vistabella del Maestrat,12135,1,Tubería general,14/11/2017
+493,2017,Boixar (Pobla de Benifassà),12599,1,Acometida,16/11/2017
+495,2017,Boixar (Pobla de Benifassà),12599,1,Interior vivienda,16/11/2017
+502,2017,Lucena del Cid,12120,1,Acometida,27/11/2017
+503,2017,Lucena del Cid,12120,1,Tubería general,28/11/2017
+504,2017,Forcall,12310,0,,29/11/2017
+508,2017,Chóvar,12499,1,Tubería general,12/12/2017
+511,2017,Geldo,12412,1,Tubería general,13/12/2017
+512,2017,Herbés,12317,1,Tubería general,14/12/2017
+514,2017,Herbés,12317,1,Acometida,14/12/2017
+517,2017,Alquerías (Montanejos),12448,1,Acometida,18/12/2017
+519,2017,Montanejos,12448,1,Acometida,20/12/2017
+522,2017,Pina de Montalgrao,12429,1,Acometida,26/12/2017
+526,2017,Lucena del Cid,12120,1,Tubería general,28/12/2017
+529,2018,Pavías,12449,1,Boca de Riego,3/1/2018
+534,2018,Cedraman,12123,1,Tubería general,10/1/2018
+536,2018,Cedraman,12123,1,Acometida,10/1/2018
+538,2018,Cedraman,12123,1,Acometida,16/1/2018
+540,2018,Algimia de Almonacid,12414,1,Acometida,17/1/2018
+541,2018,Geldo,12412,1,Tubería general,18/1/2018
+542,2018,Boixar (Pobla de Benifassà),12599,0,,23/1/2018
+546,2018,Aín,12222,1,Tubería general,25/1/2018
+547,2018,Eslida,12528,1,Tubería general,25/1/2018
+549,2018,Artana,12527,0,,30/1/2018
+552,2018,Vistabella del Maestrat,12135,1,Acometida,14/2/2018
+554,2018,Benafer,12449,1,Acometida,15/2/2018
+555,2018,Ludiente,12123,1,Acometida,19/2/2018
+557,2018,Jérica,12450,1,Interior vivienda,20/2/2018
+558,2018,Fredes (Pobla de Benifassà),12599,1,Interior vivienda,22/2/2018
+561,2018,Forcall,12310,1,Interior vivienda,27/2/2018
+566,2018,Cinctorres,12318,1,Acometida,8/3/2018
+575,2018,Caudiel,12440,1,Tubería general,22/3/2018
+582,2018,Chóvar,12499,1,Tubería general,3/4/2018
+588,2018,Portell de Morella,12318,1,Acometida,10/4/2018
+591,2018,Eslida,12528,1,Tubería general,11/4/2018
+592,2018,Santa Magdalena de Pulpis,12597,1,Tubería general,12/4/2018
+595,2018,Ludiente,12123,0,,18/4/2018
+603,2018,Algimia de Almonacid,12414,0,,8/5/2018
+605,2018,Artana,12527,1,Interior vivienda,9/5/2018
+608,2018,Cinctorres,12318,1,Acometida,15/5/2018
+609,2018,Cinctorres,12318,1,Acometida,15/5/2018
+612,2018,Culla,12163,1,Acometida,16/5/2018
+613,2018,Les Useres,12118,1,Acometida,17/5/2018
+615,2018,Ballestar (Pobla de Benifassà),12599,1,Acometida,21/5/2018
+618,2018,Boixar (Pobla de Benifassà),12599,1,Tubería general,23/5/2018
+620,2018,Forcall,12310,0,,29/5/2018
+623,2018,Torás,12431,1,Acometida,30/5/2018
+626,2018,Culla,12163,1,Acometida,4/6/2018
+629,2018,Vallat,12230,0,,5/6/2018
+630,2018,Castillo de Villamalefa,12123,1,Acometida,7/6/2018
+633,2018,Chóvar,12499,1,Tubería general,13/6/2018
+644,2018,Ballestar (Pobla de Benifassà),12599,1,Llave de paso de la general,4/7/2018
+648,2018,Caudiel,12440,1,Acometida,9/7/2018
+651,2018,Eslida,12528,1,Acometida,9/7/2018
+652,2018,Eslida,12528,1,Tubería general,9/7/2018
+654,2018,Montanejos,12448,0,,12/7/2018
+655,2018,Castillo de Villamalefa,12123,0,,12/7/2018
+659,2018,Alfondeguilla,12609,1,Tubería general,17/7/2018
+660,2018,Pobla de Benifassà,12599,1,Llave de paso de la acometida,19/7/2018
+661,2018,Ludiente,12123,1,Interior vivienda,23/7/2018
+662,2018,Forcall,12310,1,Tubería general,24/7/2018
+664,2018,Chóvar,12499,1,Acometida,26/7/2018
+665,2018,Montanejos,12448,1,Acometida,31/7/2018
+666,2018,Aín,12222,1,Interior vivienda,1/8/2018
+667,2018,Eslida,12528,1,Interior vivienda,1/8/2018
+668,2018,La Torre d'En Besora,12161,1,Tubería general,2/8/2018
+671,2018,Montanejos,12448,0,,7/8/2018
+674,2018,Lucena del Cid,12120,1,Acometida,9/8/2018
+676,2018,Los Calpes (Puebla de Arenoso),12428,0,,13/8/2018
+680,2018,Artana,12527,1,Acometida,14/8/2018
+681,2018,Chóvar,12499,1,Tubería general,14/8/2018
+683,2018,Soneja,12480,1,Acometida,20/8/2018
+684,2018,Palanques,12311,0,,21/8/2018
+685,2018,La Mata de Morella,12312,0,,21/8/2018
+687,2018,Villahermosa del Río,12124,0,,28/8/2018
+694,2018,Palanques,12311,1,Tubería general,4/9/2018
+695,2018,Caudiel,12440,1,Tubería general,10/9/2018
+704,2018,Geldo,12412,1,Tubería general,19/9/2018
+705,2018,Eslida,12528,1,Interior vivienda,20/9/2018
+708,2018,Caudiel,12440,1,Tubería general,25/9/2018
+710,2018,Culla,12163,1,Acometida,26/9/2018
+712,2018,Xodos,12134,0,,27/9/2018
+713,2018,Geldo,12412,1,Acometida,17/10/2018
+727,2018,Montanejos,12448,1,Tubería general,22/11/2018
+731,2018,Caudiel,12440,1,Acometida,28/11/2018
+735,2018,Olocau del Rey,12312,1,Tubería general,11/12/2018
+736,2018,Castellfort,12159,1,Acometida,12/12/2018
+741,2019,La Mata de Morella,12312,1,Tubería general,4/1/2019
+743,2019,Arañuel,12232,1,Acometida,7/1/2019
+747,2019,Geldo,12412,1,Tubería general,9/1/2019
+749,2019,Gaibiel,12415,1,Acometida,15/1/2019
+751,2019,Alfondeguilla,12609,1,Acometida,22/1/2019
+752,2019,Eslida,12528,0,,23/1/2019
+753,2019,Villahermosa del Río,12124,0,,29/1/2019
+757,2019,Arañuel,12232,1,Tubería general,6/2/2019
+758,2019,Vistabella del Maestrat,12135,1,Tubería general,7/2/2019
+761,2019,Arañuel,12232,1,Acometida,12/2/2019
+763,2019,Montanejos,12448,1,Acometida,19/2/2019
+764,2019,Montanejos,12448,1,Tubería general,19/2/2019
+768,2019,Caudiel,12440,1,Acometida,20/2/2019
+776,2019,Pobla de Benifassà,12599,1,Acometida,5/3/2019
+778,2019,Pobla de Benifassà,12599,1,Acometida,7/3/2019
+780,2019,Arañuel,12232,1,Tubería general,12/3/2019
+784,2019,Alquerías (Montanejos),12448,1,Tubería general,14/3/2019
+788,2019,La Jana,12340,1,Tubería general,21/3/2019
+789,2019,Sacañet,12469,1,Tubería general,1/4/2019
+791,2019,Todolella,12312,1,Tubería general,3/4/2019
+793,2019,Forcall,12310,1,Tubería general,4/4/2019
+795,2019,Les Useres,12118,1,Tubería general,15/4/2019
+797,2019,Castillo de Villamalefa,12123,1,Acometida,16/4/2019
+799,2019,Soneja,12480,1,Tubería general,18/4/2019
+801,2019,Castillo de Villamalefa,12123,1,Interior vivienda,30/4/2019
+803,2019,Les Useres,12118,1,Acometida,7/5/2019
+809,2019,La Mata de Morella,12312,1,Tubería general,15/5/2019
+812,2019,Matet,12415,0,,21/5/2019
+816,2019,Castillo de Villamalefa,12123,0,,30/5/2019
+817,2019,Cedraman,12123,1,Acometida,30/5/2019
+819,2019,Montanejos,12448,0,,3/6/2019
+822,2019,Eslida,12528,1,Tubería general,5/6/2019
+826,2019,Alfondeguilla,12609,1,Acometida,10/6/2019
+827,2019,La Monzona (Puebla de Arenoso),12428,0,,11/6/2019
+831,2019,Villahermosa del Río,12124,1,Acometida,13/6/2019
+833,2019,Caudiel,12440,1,Tubería general,18/6/2019
+834,2019,Fuentes de Ayódar,12225,0,,18/6/2019
+836,2019,Portell de Morella,12318,1,Acometida,19/6/2019
+837,2019,Portell de Morella,12318,1,Acometida,19/6/2019
+847,2019,Eslida,12528,1,Tubería general,8/7/2019
+848,2019,Eslida,12528,1,Tubería general,8/7/2019
+851,2019,Jérica,12450,1,Tubería general,15/7/2019
+852,2019,Jérica,12450,1,Interior vivienda,15/7/2019
+853,2019,Castell de Cabres,12319,1,Acometida,16/7/2019
+854,2019,Palanques,12311,1,Tubería general,16/7/2019
+856,2019,La Torre d'En Besora,12161,1,Acometida,16/7/2019
+860,2019,Jérica,12450,0,,18/7/2019
+861,2019,Cinctorres,12318,1,Tubería general,22/7/2019
+862,2019,Diputación,12004,1,Interior vivienda,23/7/2019
+867,2019,Alfondeguilla,12609,1,Acometida,12/8/2019
+870,2019,Alcudia de Veo,12222,1,Tubería general,14/8/2019
+874,2019,Gaibiel,12415,0,,26/8/2019
+879,2019,Soneja,12480,1,Tubería general,3/9/2019
+885,2019,Forcall,12310,1,Acometida,11/9/2019
+886,2019,La Torre d'En Besora,12161,1,Acometida,17/9/2019
+887,2019,Xodos,12134,1,Interior vivienda,18/9/2019
+889,2019,Alfondeguilla,12609,1,Acometida,24/9/2019
+890,2019,Forcall,12310,1,Acometida,25/9/2019
+892,2019,Benafigos,12134,0,,26/9/2019
+893,2019,Soneja,12480,0,,30/9/2019
+897,2019,La Torre d'En Besora,12161,1,Tubería general,7/10/2019
+901,2019,Alquerías (Montanejos),12448,1,Tubería general,10/10/2019
+903,2019,Caudiel,12440,1,Tubería general,14/10/2019
+904,2019,Caudiel,12440,1,Tubería general,14/10/2019
+905,2019,Caudiel,12440,1,Interior vivienda,14/10/2019
+908,2019,Corachar (Pobla de Benifassà),12599,1,Acometida,17/10/2019
+913,2019,Pina de Montalgrao,12429,1,Tubería general,21/10/2019
+915,2019,Pavías,12449,1,Acometida,23/10/2019
+920,2019,Eslida,12528,1,Tubería general,28/10/2019
+921,2019,Sacañet,12469,1,Interior vivienda,29/10/2019
+923,2019,Artana,12527,1,Acometida,29/10/2019
+924,2019,Alquerías (Montanejos),12448,1,Tubería general,30/10/2019
+926,2019,Xodos,12134,1,Interior vivienda,5/11/2019
+929,2019,Chóvar,12499,1,Tubería general,6/11/2019
+930,2019,Alfondeguilla,12609,1,Acometida,7/11/2019
+938,2019,Cinctorres,12318,1,Tubería general,18/11/2019
+944,2019,Geldo,12412,1,Tubería general,25/11/2019
+946,2019,Alfondeguilla,12609,1,Tubería general,27/11/2019
+953,2019,Artana,12527,0,,19/12/2019
+957,2019,Soneja,12480,1,Tubería general,30/12/2019
+968,2020,Pavías,12449,1,Tubería general,28/1/2020
+973,2020,Portell de Morella,12318,1,Tubería general,6/2/2020
+975,2020,Geldo,12412,1,Tubería general,12/2/2020
+977,2020,Pobla de Benifassà,12599,1,Tubería general,17/2/2020
+979,2020,Caudiel,12440,1,Llave de paso de la general,18/2/2020
+980,2020,Caudiel,12440,1,Interior vivienda,18/2/2020
+981,2020,La Mata de Morella,12312,1,Tubería general,19/2/2020
+982,2020,La Mata de Morella,12312,1,Llave de paso de la acometida,19/2/2020
+989,2020,Lucena del Cid,12120,0,,9/3/2020
+990,2020,Los Calpes (Puebla de Arenoso),12428,1,Acometida,10/3/2020
+995,2020,Villores,12311,1,Llave de paso de la acometida,23/4/2020
+996,2020,Villores,12311,1,Llave de paso de la acometida,23/4/2020
+1000,2020,Villores,12311,1,Acometida,23/4/2020
+1003,2020,Castellfort,12159,1,Tubería general,28/4/2020
+1004,2020,Castellfort,12159,1,Tubería general,10/5/2020
+1009,2020,Eslida,12528,0,,14/5/2020
+1013,2020,Vistabella del Maestrat,12135,1,Acometida,25/5/2020
+1018,2020,Font d'en Segures,12160,1,Tubería general,2/6/2020
+1020,2020,Todolella,12312,1,,5/6/2020
+1021,2020,Eslida,12528,1,Tubería general,11/6/2020
+1023,2020,Ludiente,12123,1,Tubería general,17/6/2020
+1024,2020,Ludiente,12123,1,Tubería general,18/6/2020
+1029,2020,Eslida,12528,1,Interior vivienda,23/6/2020
+1035,2020,Castellfort,12159,1,Acometida,30/6/2020
+1036,2020,Palanques,12311,1,Llave de paso de la acometida,30/6/2020
+1042,2020,Algimia de Almonacid,12414,1,Acometida,1/7/2020
+1043,2020,Aín,12222,1,Acometida,1/7/2020
+1051,2020,Forcall,12310,1,Tubería general,7/7/2020
+1052,2020,Sot de Ferrer,12489,1,Tubería general,8/7/2020
+1053,2020,Sot de Ferrer,12489,1,Acometida,8/7/2020
+1054,2020,Gaibiel,12415,0,,8/7/2020
+1066,2020,Xodos,12134,0,,20/7/2020
+1067,2020,Todolella,12312,0,Llave de paso de la general,21/7/2020
+1069,2020,Forcall,12310,1,Tubería general,21/7/2020
+1070,2020,Alfondeguilla,12609,0,,22/7/2020
+1071,2020,Benafer,12449,0,,22/7/2020
+1074,2020,Ayódar,12224,1,Tubería general,23/7/2020
+1079,2020,Pobla de Benifassà,12599,1,Boca de Riego,30/7/2020
+1085,2020,Artana,12527,1,Tubería general,5/8/2020
+1086,2020,Palanques,12311,1,Tubería general,6/8/2020
+1096,2020,Herbés,12317,1,Tubería general,19/8/2020
+1100,2020,Artana,12527,1,Interior vivienda,25/8/2020
+1101,2020,La Mata de Morella,12312,1,Tubería general,26/8/2020
+1102,2020,Forcall,12310,1,Tubería general,26/8/2020
+1105,2020,Novaliches (Jérica),12450,1,Acometida,1/9/2020
+1106,2020,Novaliches (Jérica),12450,1,Tubería general,1/9/2020
+1109,2020,Cinctorres,12318,0,,7/9/2020
+1110,2020,Alfondeguilla,12609,1,Tubería general,10/9/2020
+1117,2020,Eslida,12528,1,Acometida,23/9/2020
+1119,2020,Soneja,12480,1,Acometida,5/10/2020
+1120,2020,Alfondeguilla,12609,1,Acometida,5/10/2020
+1127,2020,Jérica,12450,1,Tubería general,2/9/2020
+1129,2020,Benassal,12160,0,,13/10/2020
+1130,2020,Pobla de Benifassà,12599,1,Acometida,14/10/2020
+1134,2020,Gaibiel,12415,1,Tubería general,15/10/2020
+1137,2020,Artana,12527,1,Acometida,15/10/2020
+1139,2020,Montanejos,12448,0,,20/10/2020
+1145,2020,Jérica,12450,1,Interior vivienda,29/10/2020
+1148,2020,Portell de Morella,12318,1,Tubería general,10/11/2020
+1150,2020,Borriol,12190,1,Tubería general,11/11/2020
+1159,2020,La Mata de Morella,12312,1,Tubería general,23/11/2020
+1160,2020,Boixar (Pobla de Benifassà),12599,1,Acometida,24/11/2020
+1162,2020,Borriol,12190,1,Tubería general,26/11/2020
+1164,2020,Geldo,12412,1,Tubería general,1/12/2020
+1174,2020,Artana,12527,0,,23/1/2020
+1176,2020,Montanejos,12448,1,Tubería general,28/12/2020
+1181,2021,Eslida,12528,1,Acometida,25/1/2021
+1183,2021,Soneja,12480,1,No se detectaron fugas,27/1/2021
+1190,2021,Viver,12460,1,Llave de paso de la general,11/2/2021
+1192,2021,Viver,12460,1,Tubería general,11/2/2021
+1195,2021,Castillo de Villamalefa,12123,1,Acometida,17/2/2021
+1197,2021,Eslida,12528,1,Acometida,22/2/2021
+1198,2021,Artana,12527,1,Tubería general,22/2/2021
+1203,2021,Alfondeguilla,12609,1,No se detectaron fugas,2/3/2021
+1206,2021,Eslida,12528,1,Acometida,22/3/2021
+1207,2021,Eslida,12528,1,Tubería general,22/3/2021
+1217,2021,La Jana,12340,1,Tubería general,26/3/2021
+1218,2021,Lucena del Cid,12120,1,Tubería general,29/3/2021
+1219,2021,Pobla de Benifassà,12599,1,Acometida,30/3/2021
+1223,2021,Ludiente,12123,1,Acometida,6/4/2021
+1224,2021,Ludiente,12123,1,Tubería general,6/4/2021
+1227,2021,Zorita del Maestrazgo,12006,1,Interior vivienda,8/4/2021
+1228,2021,Los Calpes (Puebla de Arenoso),12428,1,Acometida,13/4/2021
+1229,2021,Alfondeguilla,12609,1,Tubería general,15/4/2021
+1230,2021,Sot de Ferrer,12489,1,Acometida,21/4/2021
+1231,2021,Sot de Ferrer,12489,1,Interior vivienda,21/4/2021
+1232,2021,Sot de Ferrer,12489,1,Llave de paso incendio,21/4/2021
+1236,2021,Ludiente,12123,1,Acometida,27/4/2021
+1242,2021,Todolella,12312,1,No se detectaron fugas,11/5/2021
+1248,2021,Eslida,12528,1,Acometida,19/5/2021
+1251,2021,Benafigos,12134,1,Interior vivienda,25/5/2021
+1252,2021,Los Cantos (Puebla de Arenoso),12428,1,Interior vivienda,26/5/2021
+1253,2021,Zorita del Maestrazgo,12006,1,No se detectaron fugas,27/5/2021
+1258,2021,Alfondeguilla,12609,1,Acometida,7/6/2021
+1259,2021,Alfondeguilla,12609,1,Llave de paso de la general,9/6/2021
+1261,2021,Palanques,12311,1,Acometida,10/6/2021
+1262,2021,Palanques,12311,1,Tubería general,10/6/2021
+1265,2021,Gaibiel,12415,1,No se detectaron fugas,15/6/2021
+1267,2021,Montanejos,12448,1,No se detectaron fugas,17/6/2021
+1269,2021,Montanejos,12448,1,Tubería general,17/6/2021
+1270,2021,Boixar (Pobla de Benifassà),12599,1,Acometida,21/6/2021
+1273,2021,Costur,12119,1,No se detectaron fugas,28/6/2021
+1274,2021,Alquerías (Montanejos),12448,1,Tubería general,30/6/2021
+1276,2021,Caudiel,12440,1,Acometida,5/7/2021
+1279,2021,Alcudia de Veo,12222,1,Acometida,7/7/2021
+1281,2021,Cinctorres,12318,1,Acometida,12/7/2021
+1285,2021,La Torre d'En Besora,12161,1,Acometida,14/7/2021
+1287,2021,La Torre d'En Besora,12161,1,Tubería general,14/7/2021
+1288,2021,Soneja,12480,1,Acometida,15/7/2021
+1291,2021,Alfondeguilla,12609,1,Acometida,19/7/2021
+1292,2021,Caudiel,12440,1,Acometida,19/7/2021
+1294,2021,Geldo,12412,1,Acometida,19/7/2021
+1297,2021,Corachar (Pobla de Benifassà),12599,1,Interior vivienda,20/7/2021
+1298,2021,La Mata de Morella,12312,1,Tubería general,21/7/2021
+1299,2021,La Mata de Morella,12312,1,Tubería general,21/7/2021
+1301,2021,Matet,12415,1,Interior vivienda,22/7/2021
+1302,2021,Matet,12415,1,Tubería general,22/7/2021
+1305,2021,Algimia de Almonacid,12414,1,Tubería general,28/7/2021
+1307,2021,Ludiente,12123,1,No se detectaron fugas,2/8/2021
+1308,2021,Figueroles,12122,1,Tubería general,2/8/2021
+1313,2021,Vistabella del Maestrat,12135,1,Interior vivienda,5/8/2021
+1314,2021,Lucena del Cid,12120,1,Interior vivienda,6/8/2021
+1321,2021,Matet,12415,1,Tubería general,12/8/2021
+1322,2021,Pavías,12449,1,Acometida,17/8/2021
+1325,2021,Eslida,12528,1,Acometida,31/8/2021
+1328,2021,Ayódar,12224,1,Acometida,6/9/2021
+1334,2021,Alfondeguilla,12609,1,No se detectaron fugas,9/9/2021
+1337,2021,Gaibiel,12415,1,Acometida,27/9/2021
+1338,2021,Cinctorres,12318,1,No se detectaron fugas,28/9/2021
+1339,2021,Portell de Morella,12318,1,Acometida,29/9/2021
+1340,2021,Portell de Morella,12318,1,Tubería general,29/9/2021
+1341,2021,Pavías,12449,1,No se detectaron fugas,30/9/2021
+1347,2021,Fredes (Pobla de Benifassà),12599,1,Llave de paso de la acometida,6/10/2021
+1351,2021,Pobla de Benifassà,12599,1,Acometida,14/10/2021
+1356,2021,Matet,12415,1,Tubería general,21/10/2021
+1359,2021,Caudiel,12440,1,Tubería general,26/10/2021
+1360,2021,Lucena del Cid,12120,1,Tubería general,27/10/2021
+1361,2021,Jérica,12450,1,Tubería general,28/10/2021
+1366,2021,Alfondeguilla,12609,1,Acometida,9/11/2021
+1368,2021,Eslida,12528,1,No se detectaron fugas,11/11/2021
+1369,2021,Jérica,12450,1,Acometida,15/11/2021
+1372,2021,Soneja,12480,1,Tubería general,17/11/2021
+1374,2021,Villanueva de Viver,12428,1,Acometida,18/11/2021
+1375,2021,Villanueva de Viver,12428,1,Interior vivienda,18/11/2021
+1379,2021,Lucena del Cid,12120,1,No se detectaron fugas,24/11/2021
+1380,2021,Soneja,12480,1,Tubería general,30/11/2021
+1382,2021,Caudiel,12440,1,Acometida,2/12/2021
+1383,2021,Alfondeguilla,12609,1,Acometida,7/12/2021
+1390,2021,Castellfort,12159,1,Acometida,16/12/2021
+1392,2021,Castellfort,12159,1,Acometida,16/12/2021
+1394,2021,Alfondeguilla,12609,1,Acometida,20/12/2021
+1398,2021,Jérica,12450,1,Tubería general,28/12/2021
+1399,2021,Novaliches (Jérica),12450,1,Tubería general,28/12/2021
+1,2016,Ayódar,12224,1,Tubería general,11/1/2016
+8,2016,Los Cantos (Puebla de Arenoso),12428,0,,19/1/2016
+11,2016,Atzeneta,12132,1,Llave de paso de la general,26/1/2016
+12,2016,Eslida,12528,1,Sin identificación,27/1/2016
+16,2016,Torás,12431,1,Acometida,1/2/2016
+18,2016,Geldo,12412,0,,2/2/2016
+22,2016,Zorita del Maestrazgo,12311,1,Llave de paso de la general,9/2/2016
+23,2016,Zorita del Maestrazgo,12311,1,Acometida,9/2/2016
+26,2016,Zorita del Maestrazgo,12311,1,Tubería general,9/2/2016
+28,2016,Vall de Almonacid,12414,1,Acometida,17/2/2016
+31,2016,Castellfort,12159,1,Acometida,22/2/2016
+33,2016,Cinctorres,12318,0,,22/2/2016
+34,2016,Los Calpes (Puebla de Arenoso),12428,0,,23/2/2016
+41,2016,Las Girabas (Ludiente),12123,1,Interior vivienda,9/3/2016
+43,2016,Alfondeguilla,12609,1,Acometida,16/3/2016
+45,2016,Soneja,12480,1,Tubería general,21/3/2016
+46,2016,Palanques,12311,0,,22/3/2016
+53,2016,Xodos,12134,2,Sin identificación,11/4/2016
+55,2016,Gaibiel,12415,1,Acometida,13/4/2016
+57,2016,Gaibiel,12415,1,Tubería general,13/4/2016
+60,2016,Xodos,12134,0,,21/4/2016
+63,2016,Pavías,12449,1,Acometida,25/4/2016
+71,2016,Xodos,12134,1,Llave de paso de la acometida,4/5/2016
+74,2016,Jérica,12450,0,,11/5/2016
+79,2016,Jérica,12450,1,Tubería general,17/5/2016
+91,2016,Todolella,12312,1,Tubería general,7/6/2016
+93,2016,Puebla de Arenoso,12428,0,,9/6/2016
+94,2016,La Monzona (Puebla de Arenoso),12428,1,Tubería general,9/6/2016
+96,2016,Sant Joan de Moró,12130,1,Interior vivienda,15/6/2016
+98,2016,Pavías,12449,1,Acometida,20/6/2016
+103,2016,Todolella,12312,1,Acometida,22/6/2016
+105,2016,Vistabella del Maestrat,12135,0,,23/6/2016
+106,2016,San Rafael del Río,12510,1,Acometida,27/6/2016
+107,2016,Pavías,12449,1,Llave de paso de la acometida,28/6/2016
+108,2016,Pavías,12449,1,Llave de paso de la acometida,28/6/2016
+115,2016,Cinctorres,12318,1,Acometida,5/7/2016
+118,2016,Matet,12415,1,Tubería general,6/7/2016
+122,2016,Pobla de Benifassà,12599,1,Llave de paso de la acometida,12/7/2016
+124,2016,Todolella,12312,1,Acometida,12/7/2016
+126,2016,Benafigos,12134,1,Llave de paso de la acometida,12/7/2016
+128,2016,Aín,12222,1,Acometida,13/7/2016
+129,2016,Jérica,12450,1,Acometida,14/7/2016
+130,2016,Soneja,12480,1,Tubería general,14/7/2016
+132,2016,Castellfort,12159,1,Sin identificación,18/7/2016
+138,2016,Algimia de Almonacid,12414,1,Acometida,21/7/2016
+140,2016,Caudiel,12440,1,Sin identificación,21/7/2016
+146,2016,Pobla de Benifassà,12599,1,Llave de paso de la acometida,1/8/2016
+152,2016,Algimia de Almonacid,12414,0,,4/8/2016
+153,2016,Herbés,12317,1,Sin identificación,8/8/2016
+154,2016,Herbés,12317,1,Sin identificación,8/8/2016
+160,2016,Alfondeguilla,12609,0,,29/8/2016
+163,2016,Ballestar (Pobla de Benifassà),12599,0,,31/8/2016
+169,2016,Figueroles,12122,1,Interior vivienda,22/8/2016
+173,2016,Figueroles,12122,1,Tubería general,24/8/2016
+179,2016,Eslida,12528,1,Acometida,7/9/2016
+181,2016,Eslida,12528,1,Acometida,7/9/2016
+182,2016,Eslida,12528,1,Acometida,7/9/2016
+183,2016,Eslida,12528,1,Tubería general,7/9/2016
+186,2016,Lucena del Cid,12120,1,Tubería general,12/9/2016
+192,2016,Villamalur,12224,1,,19/9/2016
+193,2016,Eslida,12528,1,Acometida,20/9/2016
+198,2016,Sacañet,12469,1,Tubería general,3/10/2016
+199,2016,Vall de Almonacid,12141,1,Tubería general,3/10/2016
+210,2016,Montanejos,12448,1,Acometida,6/10/2016
+212,2016,Montanejos,12448,1,Tubería general,6/10/2016
+215,2016,Rosell,12511,0,,10/10/2016
+217,2016,Eslida,12528,1,Acometida,11/10/2016
+218,2016,Xodos,12134,1,Interior vivienda,13/10/2016
+221,2016,Jérica,12450,1,Tubería general,18/10/2016
+223,2016,La Jana,12340,1,Acometida,24/10/2016
+224,2016,La Jana,12340,1,Tubería general,24/10/2016
+229,2016,Pavías,12449,1,Sin identificación,3/11/2016
+232,2016,Sot de Ferrer,12489,1,Acometida,7/11/2016
+233,2016,Sot de Ferrer,12489,1,Acometida,7/11/2016
+236,2016,Sot de Ferrer,12489,1,Interior vivienda,7/11/2016
+237,2016,Sot de Ferrer,12489,1,Interior vivienda,7/11/2016
+240,2016,La Torre d'En Besora,12161,1,Tubería general,9/11/2016
+242,2016,La Torre d'En Besora,12161,1,Tubería general,9/11/2016
+243,2016,La Torre d'En Besora,12161,1,Llave de paso de la general,9/11/2016
+245,2016,Matet,12415,1,Acometida,10/11/2016
+247,2016,Vall de Almonacid,12141,1,Acometida,14/11/2016
+249,2016,Vall de Almonacid,12141,1,Acometida,14/11/2016
+258,2016,Torás,12431,1,Acometida,24/11/2016
+260,2016,Torás,12431,1,Acometida,24/11/2016
+263,2016,Eslida,12528,0,,1/12/2016
+265,2016,Alfondeguilla,12609,1,Acometida,7/12/2016
+270,2016,Caudiel,12440,1,Acometida,20/12/2016
+273,2016,Alfondeguilla,12609,1,Acometida,27/12/2016
+280,2017,Pavías,12449,1,Acometida,12/1/2017
+281,2017,Vistabella del Maestrat,12135,0,,16/1/2017
+282,2017,Villahermosa del Río,12124,1,Interior vivienda,17/1/2017
+284,2017,Chóvar,12499,1,Tubería general,18/1/2017
+286,2017,Torás,12431,1,Acometida,25/1/2017
+289,2017,Caudiel,12440,1,Tubería general,26/1/2017
+290,2017,Montanejos,12448,0,,30/1/2017
+291,2017,Geldo,12412,1,Tubería general,2/2/2017
+294,2017,Chóvar,12499,1,Tubería general,7/2/2017
+296,2017,Chóvar,12499,1,Tubería general,10/2/2017
+298,2017,Sacañet,12469,1,Tubería general,14/2/2017
+299,2017,Montanejos,12448,1,Tubería general,15/2/2017
+303,2017,Veo,12222,1,Interior vivienda,22/2/2017
+304,2017,Sacañet,12469,1,Tubería general,23/2/2017
+306,2017,Almedijar,12413,1,Tubería general,1/3/2017
+312,2017,Torás,12431,1,Tubería general,15/3/2017
+313,2017,Sot de Ferrer,12489,1,Interior vivienda,15/3/2017
+325,2017,Eslida,12528,1,Acometida,4/4/2017
+326,2017,Alfondeguilla,12609,1,Interior vivienda,5/4/2017
+336,2017,Palanques,12311,1,Tubería general,4/5/2017
+338,2017,Alquerías (Montanejos),12448,1,Acometida,8/5/2017
+339,2017,Alquerías (Montanejos),12448,1,Acometida,8/5/2017
+345,2017,Artana,12527,1,Acometida,17/5/2017
+348,2017,Montanejos,12448,1,Interior vivienda,23/5/2017
+350,2017,Alquerías (Montanejos),12448,1,Tubería general,23/5/2017
+355,2017,Ayódar,12224,1,Tubería general,5/6/2017
+356,2017,Benafer,12449,0,,7/6/2017
+358,2017,Lucena del Cid,12120,0,,12/6/2017
+363,2017,Artana,12527,1,Interior vivienda,15/6/2017
+365,2017,Boixar (Pobla de Benifassà),12599,1,Interior vivienda,19/6/2017
+367,2017,Chóvar,12499,1,Tubería general,21/6/2017
+368,2017,Cedraman,12123,1,Tubería general,21/6/2017
+370,2017,Cinctorres,12318,1,Acometida,26/6/2017
+373,2017,Forcall,12310,1,Tubería general,27/6/2017
+377,2017,Chóvar,12499,1,Acometida,4/7/2017
+387,2017,Vall de Almonacid,12414,1,Acometida,12/7/2017
+391,2017,La Torre d'En Besora,12161,0,,13/7/2017
+394,2017,Herbés,12317,1,Acometida,18/7/2017
+395,2017,Forcall,12310,1,Acometida,18/7/2017
+397,2017,Caudiel,12440,1,Tubería general,19/7/2017
+399,2017,Los Calpes (Puebla de Arenoso),12428,0,,20/7/2017
+401,2017,Xodos,12134,1,Llave de paso de la acometida,24/7/2017
+402,2017,Xodos,12134,1,Llave de paso de la acometida,24/7/2017
+403,2017,Eslida,12528,1,Acometida,25/7/2017
+405,2017,Alcudia de Veo,12222,0,,26/7/2017
+407,2017,Matet,12415,0,,31/7/2017
+408,2017,Artana,12527,1,Acometida,31/7/2017
+410,2017,Forcall,12310,1,Tubería general,2/8/2017
+421,2017,Alcudia de Veo,12222,1,Boca de Riego,16/8/2017
+422,2017,Forcall,12310,1,Tubería general,17/8/2017
+425,2017,Cinctorres,12318,1,Tubería general,22/8/2017
+428,2017,Alquerías (Montanejos),12448,1,Acometida,24/8/2017
+430,2017,Alfondeguilla,12609,1,Acometida,28/8/2017
+431,2017,Alquerías (Montanejos),12448,1,Tubería general,4/9/2017
+442,2017,Torás,12431,1,Acometida,14/9/2017
+448,2017,Eslida,12528,1,Boca de Riego,21/9/2017
+452,2017,Pobla de Benifassà,12599,1,Interior vivienda,27/9/2017
+461,2017,Boixar (Pobla de Benifassà),12599,1,Acometida,5/10/2017
+464,2017,Alfondeguilla,12609,1,Acometida,10/10/2017
+471,2017,Alfondeguilla,12609,7,Interior vivienda,23/10/2017
+472,2017,Palanques,12311,1,Tubería general,24/10/2017
+473,2017,Boixar (Pobla de Benifassà),12599,1,Acometida,24/10/2017
+482,2017,Caudiel,12440,1,Acometida,30/10/2017
+483,2017,Caudiel,12440,1,Tubería general,30/10/2017
+485,2017,Argelita,12230,0,,7/11/2017
+489,2017,Pobla de Benifassà,12599,1,Acometida,9/11/2017
+492,2017,Chóvar,12499,1,Acometida,15/11/2017
+494,2017,Boixar (Pobla de Benifassà),12599,1,Llave de paso de la acometida,16/11/2017
+496,2017,Fredes (Pobla de Benifassà),12599,0,,16/11/2017
+499,2017,Alfondeguilla,12609,0,,21/11/2017
+500,2017,Eslida,12528,1,Acometida,23/11/2017
+501,2017,Ayódar,12224,1,Tubería general,27/11/2017
+506,2017,Vistabella del Maestrat,12135,1,Tubería general,30/11/2017
+509,2017,Alfondeguilla,12609,1,Acometida,11/12/2017
+510,2017,Geldo,12412,1,Acometida,13/12/2017
+518,2017,Montanejos,12448,1,Tubería general,20/12/2017
+523,2017,Pina de Montalgrao,12429,1,Tubería general,26/12/2017
+524,2017,Geldo,12412,1,Tubería general,27/12/2017
+527,2018,Soneja,12480,1,Tubería general,27/3/2018
+528,2018,La Monzona (Puebla de Arenoso),12428,1,Tubería general,2/1/2018
+530,2018,Caudiel,12440,1,Acometida,3/1/2018
+532,2018,Alfondeguilla,12609,1,Acometida,9/1/2018
+533,2018,Alfondeguilla,12609,1,Llave de paso de la acometida,9/1/2018
+543,2018,Pobla de Benifassà,12599,0,,23/1/2018
+544,2018,Forcall,12310,1,Acometida,24/1/2018
+545,2018,Forcall,12310,1,Llave de paso de la general,24/1/2018
+550,2018,Cinctorres,12318,1,Tubería general,31/1/2018
+551,2018,Benafer,12449,1,Acometida,5/2/2018
+556,2018,Ludiente,12123,1,Acometida,19/2/2018
+559,2018,Benafer,12449,0,,20/2/2018
+563,2018,Caudiel,12440,1,Tubería general,1/3/2018
+564,2018,Vistabella del Maestrat,12135,0,,7/3/2018
+565,2018,Forcall,12310,0,,8/3/2018
+567,2018,Vistabella del Maestrat,12135,1,Llave de paso de la acometida,12/3/2018
+569,2018,La Jana,12340,1,Tubería general,13/3/2018
+573,2018,Eslida,12528,1,Acometida,21/3/2018
+574,2018,Sacañet,12469,1,Tubería general,22/3/2018
+580,2018,La Torre d'En Besora,12161,1,Tubería general,28/3/2018
+583,2018,Xodos,12134,1,Interior vivienda,5/4/2018
+586,2018,Portell de Morella,12318,1,Tubería general,10/4/2018
+589,2018,Forcall,12310,0,,10/4/2018
+596,2018,Zorita del Maestrazgo,12311,0,,23/4/2018
+597,2018,Herbés,12317,1,Boca de Riego,26/4/2018
+599,2018,Eslida,12528,0,,25/4/2018
+601,2018,Caudiel,12440,1,Acometida,7/5/2018
+607,2018,Chóvar,12499,1,Tubería general,10/5/2018
+610,2018,Cinctorres,12318,1,Tubería general,15/5/2018
+611,2018,Cinctorres,12318,1,Tubería general,15/5/2018
+617,2018,Boixar (Pobla de Benifassà),12599,1,Acometida,23/5/2018
+619,2018,Lucena del Cid,12120,0,,24/5/2018
+624,2018,Torás,12431,1,Acometida,30/5/2018
+625,2018,Torás,12431,1,Interior vivienda,30/5/2018
+627,2018,La Torre d'En Besora,12161,0,,6/6/2018
+628,2018,Fanzara,12230,1,Interior instalación,5/6/2018
+635,2018,Castillo de Villamalefa,12123,1,Llave de paso de la acometida,25/6/2018
+637,2018,Todolella,12312,1,Tubería general,27/6/2018
+639,2018,Pavías,12449,1,Acometida,2/7/2018
+646,2018,Castillo de Villamalefa,12123,0,,5/7/2018
+647,2018,Montanejos,12448,1,Boca de Riego,5/7/2018
+653,2018,Pobla de Benifassà,12599,0,,10/7/2018
+658,2018,Aín,12222,1,Tubería general,16/7/2018
+663,2018,Cinctorres,12318,0,,25/7/2018
+670,2018,Vall de Almonacid,12414,0,,7/8/2018
+672,2018,Soneja,12480,0,,8/8/2018
+675,2018,Puebla de Arenoso,12428,1,Tubería general,13/8/2018
+677,2018,Benafer,12449,1,Tubería general,13/8/2018
+682,2018,Caudiel,12440,1,Acometida,20/8/2018
+686,2018,Eslida,12528,1,Tubería general,23/8/2018
+689,2018,Jérica,12450,1,Acometida,30/8/2018
+690,2018,Aín,12222,0,,30/8/2018
+692,2018,Montanejos,12448,1,Sin identificación,3/9/2018
+696,2018,Soneja,12480,1,Tubería general,11/9/2018
+702,2018,Gaibiel,12415,0,,18/9/2018
+703,2018,Alfondeguilla,12609,0,,18/9/2018
+707,2018,Caudiel,12440,1,Tubería general,25/9/2018
+709,2018,Alfondeguilla,12609,1,Tubería general,25/9/2018
+711,2018,Xodos,12134,0,,27/9/2018
+716,2018,Fuentes de Ayódar,12225,1,Interior vivienda,22/10/2018
+718,2018,Palanques,12311,1,Tubería general,24/10/2018
+719,2018,Cinctorres,12318,1,Tubería general,25/10/2018
+723,2018,Todolella,12312,1,Tubería general,12/11/2018
+724,2018,Jérica,12450,1,Interior vivienda,13/11/2018
+725,2018,Vistabella del Maestrat,12135,0,,19/11/2018
+728,2018,Montanejos,12448,1,Tubería general,22/11/2018
+730,2018,Caudiel,12440,1,Acometida,28/11/2018
+737,2018,Arañuel,12232,1,Tubería general,17/12/2018
+739,2018,Arañuel,12232,1,Tubería general,28/12/2018
+740,2018,Arañuel,12232,1,Tubería general,28/12/2018
+742,2019,Arañuel,12232,1,Acometida,7/1/2019
+746,2019,Artana,12527,1,Acometida,8/1/2019
+750,2019,Vistabella del Maestrat,12135,1,Acometida,21/1/2019
+755,2019,La Torre d'En Besora,12161,1,Tubería general,31/1/2019
+756,2019,Villahermosa del Río,12124,0,,4/2/2019
+760,2019,Arañuel,12232,1,Acometida,12/2/2019
+762,2019,Xodos,12134,0,,14/2/2019
+765,2019,Alquerías (Montanejos),12448,1,Tubería general,18/2/2019
+766,2019,Caudiel,12440,1,Tubería general,20/2/2019
+767,2019,Caudiel,12440,1,Tubería general,20/2/2019
+769,2019,Arañuel,12232,1,Acometida,21/2/2019
+775,2019,Arañuel,12232,1,Acometida,4/3/2019
+779,2019,Villahermosa del Río,12124,0,,11/3/2019
+781,2019,Arañuel,12232,1,Acometida,12/3/2019
+785,2019,Eslida,12528,1,Tubería general,18/3/2019
+790,2019,Alfondeguilla,12609,1,Acometida,2/4/2019
+792,2019,Forcall,12310,1,Tubería general,4/4/2019
+794,2019,Pobla de Benifassà,12599,1,Tubería general,8/4/2019
+796,2019,Castillo de Villamalefa,12123,1,Llave de paso de la general,16/4/2019
+798,2019,Matet,12415,0,,17/4/2019
+800,2019,Sacañet,12469,1,Tubería general,29/4/2019
+802,2019,Xodos,12134,0,,6/5/2019
+805,2019,Caudiel,12440,1,Tubería general,9/5/2019
+807,2019,Torás,12431,1,Tubería general,13/5/2019
+813,2019,Jérica,12450,1,Acometida,27/5/2019
+814,2019,Les Useres,12118,1,Tubería general,28/5/2019
+818,2019,Cedraman,12123,1,Interior vivienda,30/5/2019
+820,2019,Alquerías (Montanejos),12448,1,Tubería general,3/6/2019
+823,2019,Fuentes de Ayódar,12225,1,Tubería general,6/6/2019
+828,2019,Ayódar,12224,1,Tubería general,11/6/2019
+830,2019,Portell de Morella,12318,0,,12/6/2019
+832,2019,Xodos,12134,1,Acometida,17/6/2019
+835,2019,Todolella,12312,0,,19/6/2019
+838,2019,Lucena del Cid,12120,0,,20/6/2019
+843,2019,Caudiel,12440,1,Interior vivienda,1/7/2019
+845,2019,Xert,12360,1,Acometida,4/7/2019
+846,2019,Eslida,12528,1,Tubería general,8/7/2019
+850,2019,Los Calpes (Puebla de Arenoso),12428,1,Acometida,11/7/2019
+855,2019,La Torre d'En Besora,12161,1,Acometida,16/7/2019
+865,2019,Vistabella del Maestrat,12135,1,Tubería general,8/8/2019
+866,2019,Benafer,12449,1,Tubería general,5/8/2019
+869,2019,Forcall,12310,1,Tubería general,13/8/2019
+871,2019,Alcudia de Veo,12222,1,Acometida,14/8/2019
+873,2019,Pina de Montalgrao,12429,1,Acometida,19/8/2019
+876,2019,Palanques,12311,1,Tubería general,28/8/2019
+877,2019,Montanejos,12448,0,,29/8/2019
+880,2019,Eslida,12528,0,,5/9/2019
+882,2019,Alfondeguilla,12609,1,Tubería general,2/9/2019
+884,2019,Soneja,12480,1,Acometida,9/9/2019
+891,2019,Forcall,12310,1,Acometida,25/9/2019
+894,2019,Alfondeguilla,12609,0,,1/10/2019
+895,2019,La Mata de Morella,12312,0,,7/10/2019
+902,2019,Alquerías (Montanejos),12448,1,Tubería general,10/10/2019
+907,2019,La Mata de Morella,12312,0,,16/10/2019
+909,2019,Pobla de Benifassà,12599,1,Acometida,17/10/2019
+910,2019,Pobla de Benifassà,12599,1,Acometida,17/10/2019
+912,2019,Pobla de Benifassà,12599,1,Tubería general,17/10/2019
+914,2019,Alfondeguilla,12609,1,Interior vivienda,22/10/2019
+916,2019,Pavías,12449,1,Acometida,23/10/2019
+919,2019,Eslida,12528,1,Acometida,24/10/2019
+927,2019,Xodos,12134,1,Interior vivienda,5/11/2019
+931,2019,Forcall,12310,1,Tubería general,8/11/2019
+934,2019,Geldo,12412,0,,13/11/2019
+936,2019,Cinctorres,12318,1,Llave de paso de la acometida,18/11/2019
+937,2019,Cinctorres,12318,1,Llave de paso de la acometida,18/11/2019
+941,2019,Geldo,12412,1,Acometida,20/11/2019
+942,2019,Rosell,12511,1,Tubería general,21/11/2019
+943,2019,Rosell,12511,1,Tubería general,21/11/2019
+947,2019,La Mata de Morella,12312,1,Acometida,3/12/2019
+948,2019,La Jana,12340,1,Tubería general,4/12/2019
+949,2019,Les Useres,12118,0,,10/12/2019
+951,2019,Montanejos,12448,0,,12/12/2019
+952,2019,Alfondeguilla,12609,1,Tubería general,18/12/2019
+954,2019,Benassal,12160,1,Tubería general,23/12/2019
+956,2019,Jérica,12450,1,Acometida,30/12/2019
+958,2020,La Torre d'En Besora,12161,1,Tubería general,3/1/2020
+959,2020,Chóvar,12499,0,,2/1/2020
+960,2020,Ayódar,12224,1,Tubería general,7/1/2020
+963,2020,Palanques,12311,1,Acometida,13/1/2020
+965,2020,Benafer,12449,1,Tubería general,15/1/2020
+971,2020,Geldo,12412,0,,5/2/2020
+974,2020,Portell de Morella,12318,1,Tubería general,6/2/2020
+976,2020,Algimia de Almonacid,12414,1,Acometida,13/2/2020
+984,2020,Algimia de Almonacid,12414,1,Acometida,24/2/2020
+985,2020,La Torre d'En Besora,12161,1,Tubería general,27/2/2020
+987,2020,Algimia de Almonacid,12414,1,Acometida,4/3/2020
+988,2020,Argelita,12230,1,Tubería general,5/3/2020
+993,2020,Font d'en Segures,12160,0,,21/4/2020
+997,2020,Villores,12311,1,Llave de paso de la acometida,23/4/2020
+999,2020,Villores,12311,1,Tubería general,23/4/2020
+1008,2020,Los Calpes (Puebla de Arenoso),12428,0,,13/5/2020
+1010,2020,Artana,12527,1,Tubería general,15/5/2020
+1011,2020,Chóvar,12499,0,,18/5/2020
+1012,2020,Artana,12527,1,Acometida,20/5/2020
+1014,2020,Caudiel,12440,1,Tubería general,26/5/2020
+1015,2020,Aín,12222,1,Acometida,27/5/2020
+1016,2020,Aín,12222,1,Acometida,27/5/2020
+1019,2020,Todolella,12312,1,Vaso,5/6/2020
+1025,2020,Les Useres,12118,1,Acometida,22/6/2020
+1026,2020,Les Useres,12118,1,Acometida,22/6/2020
+1028,2020,Eslida,12528,1,Boca de Riego,23/6/2020
+1030,2020,Artana,12527,1,Tubería general,23/6/2020
+1032,2020,Lucena del Cid,12120,1,Interior vivienda,25/6/2020
+1038,2020,Alfondeguilla,12609,1,Tubería general,1/7/2020
+1041,2020,Algimia de Almonacid,12414,1,Acometida,1/7/2020
+1044,2020,Villahermosa del Río,12124,0,,2/7/2020
+1046,2020,Caudiel,12440,0,,1/7/2020
+1049,2020,Boixar (Pobla de Benifassà),12599,0,,7/7/2020
+1050,2020,Forcall,12310,1,Interior vivienda,7/7/2020
+1056,2020,Alfondeguilla,12609,1,Acometida,8/7/2020
+1061,2020,Vallibona,12315,0,,13/7/2020
+1062,2020,Artana,12527,1,Interior vivienda,15/7/2020
+1064,2020,Chóvar,12499,1,Acometida,16/7/2020
+1065,2020,Vistabella del Maestrat,12135,1,Tubería general,20/7/2020
+1073,2020,Villahermosa del Río,12124,0,,23/7/2020
+1077,2020,Alquerías (Montanejos),12448,1,Tubería general,28/7/2020
+1078,2020,Alcudia de Veo,12222,0,,29/7/2020
+1080,2020,Pobla de Benifassà,12599,1,Acometida,30/7/2020
+1084,2020,Jérica,12450,1,Sin identificación,5/8/2020
+1087,2020,Forcall,12310,1,Acometida,10/8/2020
+1089,2020,Eslida,12528,1,Interior vivienda,11/8/2020
+1091,2020,Lucena del Cid,12120,1,Tubería general,13/8/2020
+1092,2020,Ayódar,12224,0,,13/8/2020
+1094,2020,Chóvar,12499,1,Acometida,18/8/2020
+1098,2020,Lucena del Cid,12120,0,,24/8/2020
+1103,2020,Chóvar,12499,1,Tubería general,27/8/2020
+1107,2020,Algimia de Almonacid,12414,1,Acometida,8/9/2020
+1112,2020,Ludiente,12123,1,Acometida,15/9/2020
+1113,2020,Las Girabas (Ludiente),12123,1,Tubería general,15/9/2020
+1118,2020,Sierra Engarcerán,12182,1,Interior vivienda,28/9/2020
+1122,2020,Forcall,12310,1,Tubería general,7/10/2020
+1124,2020,Cinctorres,12318,1,Acometida,7/10/2020
+1132,2020,Pobla de Benifassà,12599,1,Acometida,14/10/2020
+1133,2020,Pobla de Benifassà,12599,1,Llave de paso de la acometida,14/10/2020
+1136,2020,Eslida,12528,1,Acometida,15/10/2020
+1138,2020,Xodos,12134,1,Acometida,19/10/2020
+1140,2020,Jérica,12450,1,Tubería general,21/10/2020
+1142,2020,Corachar (Pobla de Benifassà),12599,0,,22/10/2020
+1146,2020,Pavías,12449,1,Acometida,2/11/2020
+1149,2020,Borriol,12190,1,Tubería general,11/11/2020
+1151,2020,Pavías,12449,1,Acometida,12/11/2020
+1153,2020,Urb. El Mollo,12190,1,Acometida,18/11/2020
+1157,2020,Borriol,12190,1,Acometida,19/11/2020
+1161,2020,Borriol,12190,1,Acometida,26/11/2020
+1163,2020,Palanques,12311,1,Tubería general,30/11/2020
+1165,2020,La Monzona (Puebla de Arenoso),12428,0,,2/12/2020
+1166,2020,Artana,12527,1,Acometida,10/12/2020
+1167,2020,Artana,12527,1,Tubería general,10/12/2020
+1170,2020,Alquerías (Montanejos),12448,1,Tubería general,15/12/2020
+1171,2020,Xert,12360,1,Tubería general,17/12/2020
+1173,2020,Aín,12222,1,Acometida,22/12/2020
+1175,2020,Montanejos,12448,1,Acometida,28/12/2020
+1178,2021,Aín,12222,1,Tubería general,13/1/2021
+1179,2021,Figueroles,12122,1,Tubería general,14/1/2021
+1180,2021,Alfondeguilla,12609,1,Acometida,18/1/2021
+1182,2021,Pina de Montalgrao,12429,1,No se detectaron fugas,26/1/2021
+1187,2021,Viver,12460,1,Acometida,11/2/2021
+1196,2021,Cedraman,12123,1,No se detectaron fugas,18/2/2021
+1209,2021,Caudiel,12440,1,Acometida,23/3/2021
+1210,2021,Caudiel,12440,1,Acometida,23/3/2021
+1211,2021,Herbés,12317,1,Tubería general,24/3/2021
+1212,2021,Herbés,12317,1,Tubería general,24/3/2021
+1214,2021,La Jana,12340,1,Acometida,26/3/2021
+1216,2021,La Jana,12340,1,Tubería general,26/3/2021
+1235,2021,Rosell,12511,1,Tubería general,26/4/2021
+1237,2021,Los Calpes (Puebla de Arenoso),12428,1,No se detectaron fugas,29/4/2021
+1239,2021,Eslida,12528,1,Tubería general,6/5/2021
+1240,2021,Sot de Ferrer,12489,1,Acometida,10/5/2021
+1241,2021,Jérica,12450,1,Tubería general,10/5/2021
+1243,2021,Algimia de Almonacid,12414,1,Acometida,12/5/2021
+1244,2021,Alfondeguilla,12609,1,Acometida,13/5/2021
+1245,2021,Alfondeguilla,12609,1,Tubería general,13/5/2021
+1246,2021,Ballestar (Pobla de Benifassà),12599,1,Acometida,18/5/2021
+1247,2021,Ballestar (Pobla de Benifassà),12599,1,Tubería general,18/5/2021
+1249,2021,Alfondeguilla,12609,1,Acometida,24/5/2021
+1256,2021,Vistabella del Maestrat,12135,1,Acometida,2/6/2021
+1257,2021,Caudiel,12440,1,No se detectaron fugas,3/6/2021
+1260,2021,Alfondeguilla,12609,1,Tubería general,9/6/2021
+1264,2021,Alcudia de Veo,12222,1,No se detectaron fugas,15/6/2021
+1268,2021,Alquerías (Montanejos),12448,1,Acometida,17/6/2021
+1271,2021,Pobla de Benifassà,12599,1,Llave de paso de la acometida,22/6/2021
+1272,2021,Benafigos,12134,1,Tubería general,23/6/2021
+1275,2021,Montanejos,12448,1,No se detectaron fugas,1/7/2021
+1277,2021,Castillo de Villamalefa,12123,1,Acometida,6/7/2021
+1278,2021,Costur,12119,1,Acometida,6/7/2021
+1280,2021,Aín,12222,1,Acometida,8/7/2021
+1290,2021,Soneja,12480,1,Tubería general,15/7/2021
+1295,2021,Pavías,12449,1,Acometida,19/7/2021
+1296,2021,Pobla de Benifassà,12599,1,Acometida,20/7/2021
+1303,2021,Soneja,12480,1,Acometida,26/7/2021
+1306,2021,Pobla de Benifassà,12599,1,Boca de Riego,29/7/2021
+1310,2021,Algimia de Almonacid,12414,1,Boca de Riego,3/8/2021
+1312,2021,Palanques,12311,1,Tubería general,4/8/2021
+1315,2021,Eslida,12528,1,Acometida,9/8/2021
+1317,2021,Pobla de Benifassà,12599,1,Tubería general,10/8/2021
+1318,2021,Zorita del Maestrazgo,12006,1,Tubería general,11/8/2021
+1319,2021,Eslida,12528,1,No se detectaron fugas,12/8/2021
+1323,2021,Vall de Almonacid,12414,1,No se detectaron fugas,19/8/2021
+1324,2021,Pavías,12449,1,No se detectaron fugas,26/8/2021
+1326,2021,Vallibona,12315,1,No se detectaron fugas,1/9/2021
+1333,2021,Costur,12119,1,Interior vivienda,8/9/2021
+1342,2021,Alfondeguilla,12609,1,Acometida,4/10/2021
+1350,2021,Jérica,12450,1,Tubería general,7/10/2021
+1357,2021,Caudiel,12440,1,Acometida,26/10/2021
+1358,2021,Caudiel,12440,1,Acometida,26/10/2021
+1363,2021,Mas d'Avall,12119,1,No se detectaron fugas,3/11/2021
+1365,2021,Los Calpes (Puebla de Arenoso),12428,1,Acometida,8/11/2021
+1370,2021,La Torre d'En Besora,12161,1,Acometida,16/11/2021
+1371,2021,La Torre d'En Besora,12161,1,Tubería general,16/11/2021
+1378,2021,Eslida,12528,1,Tubería general,23/11/2021
+1384,2021,Alcúdia de Veo,12222,1,Tubería general,9/12/2021
+1386,2021,Alfondeguilla,12609,1,Acometida,14/12/2021
+1387,2021,Sacañet,12469,1,Acometida,15/12/2021
+1388,2021,Castellfort,12159,1,Acometida,16/12/2021
+1393,2021,Castellfort,12159,1,Tubería general,16/12/2021
+1397,2021,Los Calpes (Puebla de Arenoso),12428,1,No se detectaron fugas,27/12/2021
+1400,2021,Eslida,12528,1,Interior vivienda,29/12/2021
+1401,2021,La Torre d'En Besora,12161,1,Tubería general,30/12/2021
